@@ -86,12 +86,6 @@ Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos
 
 > Puedes acceder a todos los proyectos desde la web de <a target="_blank" href="https://hourofcode.com/es/learn">HourOfCode.org</a>.
 
-![](img/kodable.gif "https://game.kodable.com/hour-of-code")
-
-![](img/thefoos.gif "https://thefoos.com/hour-of-code")
-
-![](img/lightbot.gif "http://lightbot.com/flash.html")
-
 
 
 <br />
