@@ -2,14 +2,14 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
 
-![](img/introduccion.jpg)
-
 **Objetivos del curso**
 
 1. Posibles usos de la *Raspberry Pi* en el aula.
 2. Aprender a programar en el lenguaje de programación *Python*.
 3. Conocer el mundo digital y físico con la *Raspberry Pi*.
 4. Introducción a la *domótica* e *Internet de las Cosas*.
+
+<br />
 
 **Contenidos del curso**
 
@@ -75,6 +75,8 @@ Antes de realizar los ejercicios propuestos en Python es conveniente recordar qu
 Como iniciación a la domótica casera podemos realizar diferentes prácticas utilizando una sencilla webcam conectada por USB o la propia PICAM de Raspberry Pi.
 
 Desde controlar una estancia de nuestra casa de forma remota a través del móvil utilizando el programa Motion hasta crear un timelapse con el programa fswebcam. 
+
+![](img/3.jpg)
 
 
 
