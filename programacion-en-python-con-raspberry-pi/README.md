@@ -14,6 +14,18 @@ El siguiente curso presencial surge por la necesidad de aplicar lenguajes de pro
 <br />
 
 
+
+## Diapositivas
+
+<div class="iframe">
+  <iframe src="https://wikitic.github.io/programacion-en-python-con-raspberry-pi/#/" allowfullscreen></iframe>
+</div>
+
+
+
+<br />
+
+
 ## Introducción a Raspberry Pi
 
 Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la enseñanza de las ciencias de la computación en los centros educativos. La ventaja principal que se puede destacar sobre un ordenador convencional es la posibilidad de utilizar los pines GPIO para conectar el mundo físico con el mundo digital.
