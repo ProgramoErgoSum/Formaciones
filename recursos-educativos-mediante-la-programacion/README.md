@@ -2,6 +2,8 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar nuevas metodologías utilizando la programación de videojuegos y aplicaciones como herramienta transversal para mejorar el aprendizaje en áreas de educación primaria y secundaria.
 
+![](img/preview.jpg "Recursos educativos mediante la programación")
+
 ### Objetivos del curso
 
 1. Conocer lenguajes de programación por bloques.
@@ -122,9 +124,9 @@ En la siguiente imagen se muestra Scratch en su versión online desde el navegad
 
 A continuación aparecen los proyectos realizados por los docentes que han participado en el curso de formación.
 
-### Proyecto de Alberto utilizando Bee-Bot
+### Proyecto Bee-Bot en lengua y matemáticas
 
-Este proyecto ha sido realizado por Alberto Campos, maestro del CEIP San José de Fuente Álamo (Murcia), dirigido a un grupo de 24 alumnos, de primer curso de Primaria. Se han realizado 2 actividades, una de Lengua y otra de Matemáticas.
+> Este proyecto ha sido realizado por Alberto Campos, maestro del CEIP San José de Fuente Álamo (Murcia), dirigido a un grupo de 24 alumnos, de primer curso de Primaria. Se han realizado 2 actividades, una de Lengua y otra de Matemáticas.
 
 La actividad de Lengua consiste en juntar sílabas, distribuidas por el tablero de Beebot, para formar palabras. El profesor escribirá en la pizarra 2 sílabas, y los alumnos deberán programar la Beebot para llegar a ellas y encontrar una palabra. En el tablero se marca la casilla de salida, desde donde partirá el robot, y los alumnos diseñarán 2 recorridos para alcanzar los cuadros donde se encuentran las sílabas pedidas. Estos alumnos están organizados en grupos, por lo que deberán descubrir y decidir entre todos un recorrido correcto. Se les reparten unas fichas de trabajo con el tablero dibujado, donde podrán realizar varios intentos para escribir los movimientos que seguirá la abeja, representada en un papel.
 
@@ -138,9 +140,9 @@ Las 2 actividades han tenido mucho éxito y aceptación entre los alumnos. Realm
 
 Algunas dificultades encontradas son, la escasa orientación espacial que presentan algunos alumnos a estas edades, la lateralidad no está consolidada y los conceptos derecha e izquierda no los tienen claros. También les resulta complicado tomar decisiones en grupo, porque todos quieren escribir, dirigir la abeja y que les hagan caso en lo que dicen.
 
-### Proyecto de Antonio utilizando Plickers
+### Proyecto Plickers en sociales y naturales
 
-Este proyecto ha sido realizado por Antonio Ludeña, maestro del CEIP Fernández Caballero de Murcia.
+> Este proyecto ha sido realizado por Antonio Ludeña, maestro del CEIP Fernández Caballero de Murcia.
 
 Una opinión extendida es que estos lenguajes requieren de profundos conocimientos informáticos y por tanto de un lenguaje profesional poco atractivo y comprensible para usuarios informáticos con escasos o nulos niveles de conocimiento en esta materia. Por tanto, en este documento final quiero reflejar mi satisfacción al haber comprendido que, a través del modelo basado en la programación por bloques, se hace cierta la manifestación expresada en el programa del curso, de que "permite a los programadores principiantes concentrarse en la lógica de la programación abstrayéndose de la gramática del propio lenguaje".
 
