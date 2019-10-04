@@ -2,6 +2,8 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
 
+![](img/introduccion.jpg)
+
 **Objetivos del curso**
 
 1. Posibles usos de la *Raspberry Pi* en el aula.
@@ -33,7 +35,7 @@ Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la en
 
 El sistema operativo elegido y recomendado es Raspbian al estar optimizado para el procesador ARM (frente a los procesadores x86 que podemos encontrar en los PC de un aula convencional). Para más información sobre la arquitectura del procesador y modos de instalación accede al curso de instalación de Raspbian en Raspberry Pi de esta misma plataforma donde lo explicamos a través de videotutoriales.
 
-
+![](img/1.jpg)
 
 ### Instalación de Raspbian
 
@@ -86,6 +88,8 @@ Para aprender a progrmar en MicroPython se puede utilizar la placa de electróni
 
 BBCs Micro:bit es una pequeña placa de electrónica programable diseñada para aprender a programar de forma sencilla. Cuenta con diferentes sensores y actuadores con los que poder interactuar mediante programación. Y para programarla vamos a utilizar el editor Mu.
 
+![](img/4.jpg)
+
 
 
 <br />
@@ -98,16 +102,26 @@ Los pines GPIO de la Raspberry Pi son un sistema de entrada y salida de propósi
 
 Un problema que podemos encontrarnos al utilizar los pines GPIO directamente desde la Raspberry Pi es la posibilidad de equivocarnos y dañar nuestra placa. Por eso mismo recomendamos utilizar una placa de Arduino conectada por puerto serie.
 
+![](img/5.jpg)
+
 
 
 <br />
+
 
 
 ## Internet de las cosas (IoT)
 
+Internet de las cosas es la próxima ola de Internet. Básicamente, si un dispositivo se puede conectar a Internet, puede participar en una red mundial de sensores y dispositivos de salida. El uso de este Internet de las cosas, hará posible a los dispositivos más pequeños estar conectados entre sí con sistemas mucho más grandes
+
+Con Raspberry Pi se puede utilizar este llamado internet de las cosas como explicamos en los tutoriales de nuestra plataforma.
+
+![](img/6.gif)
+
 
 
 <br />
+
 
 
 ## Videojuegos con PyGame
@@ -115,6 +129,8 @@ Un problema que podemos encontrarnos al utilizar los pines GPIO directamente des
 PyGame es un módulo del lenguaje de programación Python que permiten la creación de videojuegos en dos dimensiones de una manera sencilla. Mediante PyGame podemos utilizar sprites (objetos), cargar y mostrar imágenes en diferentes formatos, sonidos, etc. Además, al ser un módulo destinado a la programación de videojuegos se puede monitorizar el teclado o joystick de una manera bastante sencilla.
 
 Mediante el módulo PyGame se pueden desarrollar videojuegos en Python similares a los que aparecen en la versión de Raspbian para Raspberry Pi.
+
+![](img/7.jpg)
 
 
 
@@ -130,4 +146,8 @@ Con tan solo 4 funciones se puede crear y personalizar un mundo educativo para u
 
 Un reto propuesto consiste en realizar unas mejoras a un laberinto programado en Python y preparado con las instrucciones básicas de Minecraft Pi. 
 
+![](img/8.jpg)
+
 Pueden crearse diferentes mejoras e implementaciones además de la posibilidad de utilizar los pines GPIO para interactuar con Minecraft conectando el mundo físico con el mundo digital.
+
+![](img/8.gif)
