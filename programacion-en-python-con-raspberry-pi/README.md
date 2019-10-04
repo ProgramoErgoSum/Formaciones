@@ -2,25 +2,12 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
 
-**Objetivos del curso**
+### Objetivos del curso
 
 1. Posibles usos de la *Raspberry Pi* en el aula.
 2. Aprender a programar en el lenguaje de programación *Python*.
 3. Conocer el mundo digital y físico con la *Raspberry Pi*.
 4. Introducción a la *domótica* e *Internet de las Cosas*.
-
-<br />
-
-**Contenidos del curso**
-
-1. Introducción a Raspberry Pi
-2. Iniciación a la programación en Python
-3. Domótica con Raspberry Pi
-4. Electrónica con MicroPython
-5. Pines GPIO + Arduino IDE
-6. Internet de las cosas (IoT)
-7. Videojuegos con PyGame
-8. Programando sobre Minecraft Pi
 
 
 
