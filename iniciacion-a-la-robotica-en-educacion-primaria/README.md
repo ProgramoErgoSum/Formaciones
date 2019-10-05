@@ -18,7 +18,7 @@ El siguiente curso presencial surge por la necesidad de aplicar lenguajes de pro
 ## Diapositivas
 
 <div class="iframe">
-  <iframe src="https://wikitic.github.io/iniciacion-a-la-robotica-en-primaria" allowfullscreen></iframe>
+  <iframe src="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-primaria" allowfullscreen></iframe>
 </div>
 
 

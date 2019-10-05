@@ -22,7 +22,7 @@ El siguiente curso presencial surge por la necesidad de aplicar lenguajes de pro
 A continuación aparecen las diapositivas utilizadas en el curso. Puedes hacer clic en la diapositiva y desplazarte sobre ellas utilizando las flechas del teclado.
 
 <div class="iframe">
-  <iframe src="https://wikitic.github.io/programacion-en-python-con-raspberry-pi/#/" allowfullscreen></iframe>
+  <iframe src="https://wikitic.github.io/programacion-en-python-con-raspberry-pi" allowfullscreen></iframe>
 </div>
 
 
