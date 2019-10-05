@@ -2,6 +2,8 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
 
+![](img/preview.jpg "Programación en Python con Raspberry Pi")
+
 ### Objetivos del curso
 
 1. Posibles usos de la *Raspberry Pi* en el aula.
@@ -15,9 +17,11 @@ El siguiente curso presencial surge por la necesidad de aplicar lenguajes de pro
 
 
 
-## Diapositivas
+## Diapositivas del curso
 
-<div class="iframe">
+A continuación aparecen las diapositivas utilizadas en el curso. Puedes hacer clic en la diapositiva y desplazarte sobre ellas utilizando las flechas del teclado.
+
+<div class="iframe" style="border: 5px solid #000;">
   <iframe src="https://wikitic.github.io/programacion-en-python-con-raspberry-pi/#/" allowfullscreen></iframe>
 </div>
 
@@ -33,8 +37,6 @@ Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la en
 > Este curso se puede realizar con diferentes versiones de Raspberry Pi (2, 3 y 4).
 
 El sistema operativo elegido y recomendado es Raspbian al estar optimizado para el procesador ARM (frente a los procesadores x86 que podemos encontrar en los PC de un aula convencional). Para más información sobre la arquitectura del procesador y modos de instalación accede al curso de instalación de Raspbian en Raspberry Pi de esta misma plataforma donde lo explicamos a través de videotutoriales.
-
-![](img/1.jpg)
 
 ### Instalación de Raspbian
 
