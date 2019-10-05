@@ -77,7 +77,7 @@ Como iniciación a la domótica casera podemos realizar diferentes prácticas ut
 
 Desde controlar una estancia de nuestra casa de forma remota a través del móvil utilizando el programa Motion hasta crear un timelapse con el programa fswebcam. 
 
-![](img/3.jpg)
+![](img/3.jpg "Domótica con Raspberry Pi")
 
 
 
@@ -91,7 +91,7 @@ Para aprender a progrmar en MicroPython se puede utilizar la placa de electróni
 
 BBCs Micro:bit es una pequeña placa de electrónica programable diseñada para aprender a programar de forma sencilla. Cuenta con diferentes sensores y actuadores con los que poder interactuar mediante programación. Y para programarla vamos a utilizar el editor Mu.
 
-![](img/4.jpg)
+![](img/4.jpg "Electrónica con MicroPython")
 
 
 
@@ -105,7 +105,7 @@ Los pines GPIO de la Raspberry Pi son un sistema de entrada y salida de propósi
 
 Un problema que podemos encontrarnos al utilizar los pines GPIO directamente desde la Raspberry Pi es la posibilidad de equivocarnos y dañar nuestra placa. Por eso mismo recomendamos utilizar una placa de Arduino conectada por puerto serie.
 
-![](img/5.jpg)
+![](img/5.jpg "Pines GPIO + Arduino IDE")
 
 
 
@@ -119,7 +119,7 @@ Internet de las cosas es la próxima ola de Internet. Básicamente, si un dispos
 
 Con Raspberry Pi se puede utilizar este llamado internet de las cosas como explicamos en los tutoriales de nuestra plataforma.
 
-![](img/6.gif)
+![](img/6.gif "Internet de las cosas (IoT)")
 
 
 
@@ -133,7 +133,7 @@ PyGame es un módulo del lenguaje de programación Python que permiten la creaci
 
 Mediante el módulo PyGame se pueden desarrollar videojuegos en Python similares a los que aparecen en la versión de Raspbian para Raspberry Pi.
 
-![](img/7.jpg)
+![](img/7.jpg "Videojuegos con PyGame")
 
 
 
@@ -149,8 +149,8 @@ Con tan solo 4 funciones se puede crear y personalizar un mundo educativo para u
 
 Un reto propuesto consiste en realizar unas mejoras a un laberinto programado en Python y preparado con las instrucciones básicas de Minecraft Pi. 
 
-![](img/8.jpg)
+![](img/8.jpg "Programando sobre Minecraft Pi")
 
 Pueden crearse diferentes mejoras e implementaciones además de la posibilidad de utilizar los pines GPIO para interactuar con Minecraft conectando el mundo físico con el mundo digital.
 
-![](img/8.gif)
+![](img/8.gif "Laberinto en Minecraft Pi con Pines GPIO")
