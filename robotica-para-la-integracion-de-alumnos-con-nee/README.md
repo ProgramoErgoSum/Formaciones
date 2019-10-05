@@ -10,8 +10,6 @@ El siguiente curso presencial surge por la necesidad de aplicar nuevas metodolog
 2. Utilizar técnicas de gamificación en el aula, para mejorar el proceso de enseñanza-aprendizaje y potenciar la motivación del alumno.
 3. Conocer las posibilidades que ofrece la realidad aumentada para su aplicación en el aula.
 
-> Para el desarrollo de este curso vamos a dividir el contenido en diferentes áreas o habilidades.
-
 
 
 <br />
