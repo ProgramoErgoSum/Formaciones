@@ -59,7 +59,7 @@ Para crear una cuenta como educador o profesor, seguiremos los siguiente pasos:
 3. Registra a los alumnos. El registro de los alumnos en Code.org puede hacerse de un total de tres maneras; Por imagen: el profesor elige los nombres de usuario y el sistema asigna una imagen de entre un catálogo reducido para acceder a la plataforma. Por palabra: similar al de la imagen, pero con una palabra como contraseña en vez de un dibujo o imagen. Por correo electrónico: los alumnos tendrán que registrarse con su propio correo electrónico, y luego el profesor dará acceso a las respectivas cuentas registradas con determinadas direcciones.
 4. Imprimir las tarjetas de los alumnos y entregarlas para que accedan siguiendo los pasos indicados en las mismas.
 
-![](1.jpg "Plataforma Code.org (Sección docentes)")
+![](img/1.jpg "Plataforma Code.org (Sección docentes)")
 
 ### VideoJuegos con Scratch
 
