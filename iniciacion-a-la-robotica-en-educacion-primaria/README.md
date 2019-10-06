@@ -1,20 +1,20 @@
 ## Introducción
 
-El curso surge ante la necesidad de dotar de recursos pedagógicos para la programación y el uso de robots en las aulas. Se usarán placas de hardware en código abierto que permiten la creación de robots y la aplicación de electrónica. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los jóvenes por la tecnología. 
+El curso surge ante la necesidad de dotar a los centros de recursos pedagógicos para la programación y el uso de robots en las aulas. Se utilizarán materiales y placas de hardware libre y de código abierto que permiten la creación de robots. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los jóvenes por la tecnología. 
 
 ![](img/preview.jpg "Iniciación a la Robótica en Educación Primaria")
 
 Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
 
-- *Área 1*: Información y alfabetización informacional
-  - 1.1 Navegación, búsqueda y filtrado de información, datos y contenidos digitales
+- *Área 1* Información y alfabetización informacional
+  - 1.1. Navegación, búsqueda y filtrado de información, datos y contenidos digitales
   - 1.2. Evaluación de la información, datos y contenidos digitales
-- *Área 2*: Comunicación y colaboración
-  - 2.2.Compartir información y contenidos digitales
-  - 2.4.Colaboración mediante canales digitales
-- *Área 3*: Creación de contenido digital
+- *Área 2* Comunicación y colaboración
+  - 2.2. Compartir información y contenidos digitales
+  - 2.4. Colaboración mediante canales digitales
+- *Área 3* Creación de contenido digital
   - 3.4. Programación
-- *Área 5*: Resolución de problemas
+- *Área 5* Resolución de problemas
   - 5.2. Identificación de necesidades y respuestas tecnológicas.
 
 ### Objetivos del curso
