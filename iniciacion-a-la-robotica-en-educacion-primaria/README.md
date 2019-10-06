@@ -1,15 +1,29 @@
 ## Introducción
 
-El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
+El curso surge ante la necesidad de dotar de recursos pedagógicos para la programación y el uso de robots en las aulas. Se usarán placas de hardware en código abierto que permiten la creación de robots y la aplicación de electrónica. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los jóvenes por la tecnología. 
 
 ![](img/preview.jpg "Iniciación a la Robótica en Educación Primaria")
 
+Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
+
+- *Área 1*: Información y alfabetización informacional
+  - 1.1 Navegación, búsqueda y filtrado de información, datos y contenidos digitales
+  - 1.2. Evaluación de la información, datos y contenidos digitales
+- *Área 2*: Comunicación y colaboración
+  - 2.2.Compartir información y contenidos digitales
+  - 2.4.Colaboración mediante canales digitales
+- *Área 3*: Creación de contenido digital
+  - 3.4. Programación
+- *Área 5*: Resolución de problemas
+  - 5.2. Identificación de necesidades y respuestas tecnológicas.
+
 ### Objetivos del curso
 
-1. Conocer diferentes entornos de *programación y robótica*.
+1. Analizar los entornos de *programación y lenguajes*.
 2. Utilizar técnicas de *gamificación* en el aula.
 3. Conocer las posibilidades que ofrece la *realidad aumentada*.
-4. Introducción al mundo DIY y *maker* en educación.
+4. Explorar técnicas utilizando *robots educativos*.
+5. Introducción al mundo DIY y *maker* en educación.
 
 
 
