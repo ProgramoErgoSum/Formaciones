@@ -46,17 +46,21 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 ## Programación desenchufada
 
-Actualmente podemos encontrar numerosas actividades para para desarrollar el pensamiento computacional desde educación infantil sin la necesidad de utilizar un ordenador. Estas actividades son ideales para ir adquiriendo ciertas destrezas del mundo de la programación informática.
+Actualmente podemos encontrar numerosas actividades para desarrollar el pensamiento computacional desde educación infantil sin la necesidad de utilizar un ordenador. Estas actividades son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática.
 
-<a target="_blank" href="csunplugged.org">CS Unplugged</a> es una colección de material didáctico y de libre acceso que enseña las bases de la informática a través de interesantes juegos y puzles con la ayuda de cartas, cuerdas, lápices y mucha actividad física. El objetivo principal del proyecto Unplugged es promocionar la Informática (y la computación en general) entre los niños, niñas y jóvenes.
+<a target="_blank" href="csunplugged.org">CS Unplugged</a> es una colección de material didáctico y de libre acceso que enseña las bases de la informática a través de interesantes juegos y puzles con la ayuda de cartas, cuerdas, lápices y mucha actividad física. El objetivo principal del proyecto Unplugged es promocionar la informática entre los niños, niñas y jóvenes.
 
-Una de las actividades más conocidas es la denominada Mis amigos robots, que consiste en utilizar movimientos como si de un brazo robótico se tratase, para formar una escultura utilizando vasos de plástico. Para esta actividad necesitamos definir los roles de programador y robot, ya que los programadores se encargarán de realizar la secuencia de instrucciones y los robots deberán reconstruir la estructura siguiendo dichas instrucciones para obtener el mismo resultado.
+### Mis amigos robots
 
-![](img/1.jpg "Programación sin ordenador")
+Una de las actividades más conocidas es la denominada "Mis amigos robots", que consiste en utilizar movimientos como si de un brazo robótico se tratase para formar una escultura utilizando vasos de plástico. Para esta actividad necesitamos definir los roles de programador y robot, ya que los programadores se encargarán de realizar la secuencia de instrucciones y los robots deberán reconstruir la estructura siguiendo dichas instrucciones para obtener el mismo resultado.
 
-Otra actividad que surgió como implementación de la actividad realizada por Gorka García, es la actividad de El laberinto del robot. En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberás guiar a tu robot utilizando solamente 3 movimientos adelante, gira a la derecha y gira a la izquierda. Cada vez que te encuentres con un obstáculo será el turno de tu contrincante. El primero que logre atravesar el tablero gana la partida.
+![](img/csunplugged.jpg "Programación sin ordenador")
 
-![](img/gorka.jpg "Laberinto por Gorka y Migue")
+### El laberinto del robot
+
+Una actividad que surgió como implementación a una actividad realizada por <a target="_blank" href="https://twitter.com/Gorkaprofe/status/1079352225430978562">Gorka</a>, es la actividad de "El laberinto del robot". En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberás guiar a tu robot utilizando solamente 3 movimientos adelante, gira a la derecha y gira a la izquierda. Cada vez que te encuentres con un obstáculo será el turno de tu contrincante. El primero que logre atravesar el tablero gana la partida.
+
+![](img/laberinto.jpg "Laberinto por Gorka y Migue")
 
 
 
@@ -66,17 +70,15 @@ Otra actividad que surgió como implementación de la actividad realizada por Go
 
 ## Robots de suelo
 
-Aunque el robot de suelo más conocido es la famosa abeja Beebot, podemos encontrar otros robots. En este curso presencial de introducción a la robótica desde etapas de educación infantil, se ha utilizado el robot Escornabot por todas las ventajas que conlleva sobre otros robots educativos.
+Aunque el robot de suelo más conocido es la famosa abeja Beebot, podemos encontrar otros robots. En este curso presencial de introducción a la robótica desde etapas de educación infantil, se ha utilizado el robot <a target="_blank" href="http://escornabot.com">Escornabot</a> por todas las ventajas que conlleva sobre otros robots educativos.
 
 ### ¿Qué es Escornabot?
 
 Escornabot es un proyecto de robot educativo para iniciarse en el campo de la robótica y la programación que puede ejecutar secuencias de movimientos que son programadas por el usuario mediante la pulsación de botones del robot o introduciendo comandos en un dispositivo móvil con conexión Bluetooth. Similar a otros robots de suelo como Beebot, Next, etc. lo que hace especial a Escornabot es la filosofía que sigue de proyecto de código y hardware abierto.
 
-Aunque nace en la asociación de makers Bricolabs (Galicia), son muchos los que aportan y difunden el proyecto para que más niños y niñas sientan interés por la programación y la robótica desde cero, uno de ellos es Pablo Rubio.
+![](img/escornabot.jpg "Robot educativo Escornabot")
 
-![](img/pablo-rubma.jpg "Pablo de Cierzo, padre de escornabots y liberador de cadenas")
-
-> Para crearte tu propio Escornabot puedes acceder a la <a target="_blank" href="https://pablorubma.cc/escornabot/">web</a> de Pablo Rubio donde te lo explica paso a paso.
+Aunque nace en la asociación de makers <a target="_blank" href="https://bricolabs.cc/">Bricolabs</a> (Galicia), son muchos los que aportan y difunden el proyecto para que más niños y niñas sientan interés por la programación y la robótica desde cero, uno de ellos es <a target="_blank" href="https://pablorubma.cc/escornabot/">Pablo Rubio</a>.
 
 
 
@@ -86,17 +88,17 @@ Aunque nace en la asociación de makers Bricolabs (Galicia), son muchos los que 
 
 ## Impresión 3D
 
-El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
+La impresión 3D está empezando a verse y utilizarse en los centros educativos. Es así porque profesores se han dado cuenta del valor de la impresora 3D como una herramienta para enseñar a la próxima generación de inventores.
 
-Durante este curso presencial se muestran ejemplos de uso de la impresión 3D en el aula desde educación infantil hasta secundaria además de que los docentes han podido crear sus propios llaveros personalizados de una forma muy sencilla y siguiendo una serie de recomendaciones.
+Aunque parezca cosa solo de ingenieros, existe multitud de software preparado para utilizarse con jóvenes, como es el caso de <a target="_blank" href="https://www.tinkercad.com/">TinkerCAD</a>.
+
+El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
 
 > Puedes acceder al <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion">tutorial</a> de iniciación a Tinkercad de esta misma plataforma.
 
 ![](img/3.jpg "Llaveros en TinkerCAD")
 
 Como se puede observar, TinkerCAD es sencillo de usar, atractivo y con unas pocas horas de entrenamiento podemos adquirir mucha destreza en su uso. Como desventaja podríamos decir que es necesario tener una cuenta de correo para darse de alta como usuario y que sólo posee una versión online.
-
-El objetivo de TinkerCAD es ofrecer una herramienta de diseño e impresión 3D que sea simple, online y preparada para todos los públicos, independientemente del nivel o los conocimientos que se tengan en la materia.
 
 
 
@@ -106,7 +108,7 @@ El objetivo de TinkerCAD es ofrecer una herramienta de diseño e impresión 3D q
 
 ## Programación con bloques
 
-Un lenguaje de programación por bloques tiene como característica principal centrarse en el desarrollo de habilidades mentales mediante el aprendizaje de la programación, sin tener conocimientos sobre el código escrito. Sus características  están ligadas al fácil entendimiento del pensamiento lógico y computacional han hecho que sea muy difundido en la educación desde edades iniciales.
+Un lenguaje de programación por bloques tiene como característica principal centrarse en el desarrollo de habilidades mentales mediante el aprendizaje de la programación, sin tener conocimientos sobre el código escrito. Sus características están ligadas al fácil entendimiento del pensamiento lógico y computacional han hecho que sea muy difundido en la educación desde edades iniciales.
 
 Estos lenguajes de programación se utiliza con fines didácticos para crear animaciones de forma sencilla y servir como introducción al contenido de programación más avanzado. Entre los principales lenguajes de programación por bloques tenemos a Scratch, Blockly o Snap.
 
