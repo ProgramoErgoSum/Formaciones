@@ -96,7 +96,7 @@ El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es 
 
 > Puedes acceder al <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion">tutorial</a> de iniciación a Tinkercad de esta misma plataforma.
 
-![](img/3.jpg "Llaveros en TinkerCAD")
+![](img/tinkercad.jpg "Llaveros en TinkerCAD")
 
 Como se puede observar, TinkerCAD es sencillo de usar, atractivo y con unas pocas horas de entrenamiento podemos adquirir mucha destreza en su uso. Como desventaja podríamos decir que es necesario tener una cuenta de correo para darse de alta como usuario y que sólo posee una versión online.
 
