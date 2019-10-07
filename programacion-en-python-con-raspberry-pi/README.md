@@ -4,6 +4,21 @@ El siguiente curso presencial surge por la necesidad de aplicar lenguajes de pro
 
 ![](img/preview.jpg "Programación en Python con Raspberry Pi")
 
+Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
+
+- Área 1: Información y alfabetización informacional
+  - 1.1. Navegación, búsqueda y filtrado de información, datos y contenidos digitales
+  - 1.2. Evaluación de la información, datos y contenidos digitales
+- Área 2: Comunicación y colaboración
+  - 2.2. Compartir información y contenidos digitales
+  - 2.4. Colaboración mediante canales digitales
+- Área 3: Creación de contenido digital
+  - 3.1. Desarrollo de contenidos digitales
+  - 3.2. Integración y reelaboración de contenidos digitales
+  - 3.4. Programación
+- Área 5: Resolución de problemas
+  - 5.3. Innovación y uso de la tecnología digital de forma creativa
+
 ### Objetivos del curso
 
 1. Posibles usos de la *Raspberry Pi* en el aula.
@@ -17,22 +32,11 @@ El siguiente curso presencial surge por la necesidad de aplicar lenguajes de pro
 
 
 
-## Diapositivas del curso
-
-A continuación aparecen las diapositivas utilizadas en el curso. Puedes hacer clic en la diapositiva y desplazarte sobre ellas utilizando las flechas del teclado.
-
-<div class="iframe">
-  <iframe src="https://wikitic.github.io/programacion-en-python-con-raspberry-pi" allowfullscreen></iframe>
-</div>
-
-
-
-<br />
-
-
 ## Introducción a Raspberry Pi
 
 Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la enseñanza de las ciencias de la computación en los centros educativos. La ventaja principal que se puede destacar sobre un ordenador convencional es la posibilidad de utilizar los pines GPIO para conectar el mundo físico con el mundo digital.
+
+![](img/raspberry.jpg "Raspberry Pi")
 
 > Este curso se puede realizar con diferentes versiones de Raspberry Pi (2, 3 y 4).
 
@@ -57,11 +61,11 @@ Es recomendable realizar una copia de seguridad en otra tarjeta SD a modo de res
 
 
 
-## Iniciación a la programación en Python
+## Aprende a programar en Python
 
 Python es un lenguaje de programación interpretado de tipado dinámico cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Es decir, Python es el siguiente lenguaje de programación que debería estudiarse por su sencillez después de un lenguaje de programación por bloques.
 
-Antes de realizar los ejercicios propuestos en Python es conveniente recordar que Python es un lenguaje interpretado de tipado dinámico, etc. Para más información puedes acceder al curso de iniciación a la programación en Python de esta misma plataforma donde lo explicamos a través de videotutoriales.
+![](img/aprendeprogramando.jpg "Plataforma AprendeProgramando en Python")
 
 > Para el aprendizaje de Python utilizamos la plataforma de aprendizaje guiado <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">Aprende Programando en Python</a>.
 
@@ -73,11 +77,9 @@ Antes de realizar los ejercicios propuestos en Python es conveniente recordar qu
 
 ## Domótica con Raspberry Pi
 
-Como iniciación a la domótica casera podemos realizar diferentes prácticas utilizando una sencilla webcam conectada por USB o la propia PICAM de Raspberry Pi.
+Como iniciación a la domótica podemos realizar diferentes prácticas utilizando una sencilla webcam conectada por USB o la propia PICAM de Raspberry Pi. Desde controlar una estancia de nuestra casa de forma remota a través del móvil utilizando el programa Motion hasta crear un timelapse con el programa fswebcam.
 
-Desde controlar una estancia de nuestra casa de forma remota a través del móvil utilizando el programa Motion hasta crear un timelapse con el programa fswebcam. 
-
-![](img/3.jpg "Domótica con Raspberry Pi")
+![](img/domotica.jpg "Domótica con Raspberry Pi")
 
 
 
@@ -91,7 +93,7 @@ Para aprender a progrmar en MicroPython se puede utilizar la placa de electróni
 
 BBCs Micro:bit es una pequeña placa de electrónica programable diseñada para aprender a programar de forma sencilla. Cuenta con diferentes sensores y actuadores con los que poder interactuar mediante programación. Y para programarla vamos a utilizar el editor Mu.
 
-![](img/4.jpg "Electrónica con MicroPython")
+![](img/electronica.jpg "Electrónica con MicroPython")
 
 
 
@@ -105,7 +107,7 @@ Los pines GPIO de la Raspberry Pi son un sistema de entrada y salida de propósi
 
 Un problema que podemos encontrarnos al utilizar los pines GPIO directamente desde la Raspberry Pi es la posibilidad de equivocarnos y dañar nuestra placa. Por eso mismo recomendamos utilizar una placa de Arduino conectada por puerto serie.
 
-![](img/5.jpg "Pines GPIO + Arduino IDE")
+![](img/pyserial.jpg "Pines GPIO + Arduino IDE")
 
 
 
@@ -119,7 +121,7 @@ Internet de las cosas es la próxima ola de Internet. Básicamente, si un dispos
 
 Con Raspberry Pi se puede utilizar este llamado internet de las cosas como explicamos en los tutoriales de nuestra plataforma.
 
-![](img/6.gif "Internet de las cosas (IoT)")
+![](img/iot.gif "Internet de las cosas (IoT)")
 
 
 
@@ -133,7 +135,7 @@ PyGame es un módulo del lenguaje de programación Python que permiten la creaci
 
 Mediante el módulo PyGame se pueden desarrollar videojuegos en Python similares a los que aparecen en la versión de Raspbian para Raspberry Pi.
 
-![](img/7.jpg "Videojuegos con PyGame")
+![](img/pygame.jpg "Videojuegos con PyGame")
 
 
 
@@ -149,8 +151,23 @@ Con tan solo 4 funciones se puede crear y personalizar un mundo educativo para u
 
 Un reto propuesto consiste en realizar unas mejoras a un laberinto programado en Python y preparado con las instrucciones básicas de Minecraft Pi. 
 
-![](img/8.jpg "Programando sobre Minecraft Pi")
+![](img/laberinto.jpg "Programando sobre Minecraft Pi")
 
 Pueden crearse diferentes mejoras e implementaciones además de la posibilidad de utilizar los pines GPIO para interactuar con Minecraft conectando el mundo físico con el mundo digital.
 
-![](img/8.gif "Laberinto en Minecraft Pi con Pines GPIO")
+![](img/minecraft.gif "Laberinto en Minecraft Pi con Pines GPIO")
+
+
+
+<br />
+
+
+
+## Materiales
+
+- <a target="_blank" href="https://wikitic.github.io/programacion-en-python-con-raspberry-pi">Diapositivas del curso presencial</a>
+
+### Enlaces de interés
+
+- <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">Aprende a programar en Python</a>
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi">Tutoriales de Raspberry Pi</a>
