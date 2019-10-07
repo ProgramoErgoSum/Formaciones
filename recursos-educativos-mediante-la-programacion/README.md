@@ -1,19 +1,32 @@
 ## Introducción
 
-El siguiente curso presencial surge por la necesidad de aplicar nuevas metodologías utilizando la programación de videojuegos y aplicaciones como herramienta transversal para mejorar el aprendizaje en áreas de educación primaria y secundaria.
+Las nuevas tendencias pedagógicas que se están desarrollando e implementando apuestan decididamente por la integración de las tecnologías del aprendizaje y el conocimiento en las aulas. A través de éstas el alumno es capaz de desarrollar sus propios aprendizajes, siendo el protagonista del proceso de enseñanza - aprendizaje. Tanto los docentes como el alumnado han de poder desarrollar su competencia digital, de tal modo que el conocimiento adquirido sirva para lograr la aplicación práctica de lo aprendido con un objetivo pedagógico concreto. Dentro de esta tendencia se percibe que el pensamiento lógico-computacional también está siendo enfatizado. Por todo lo anterior es necesario dotar al profesorado de recursos pedagógicos para la programación informática de videojuegos, ordenadores y aplicaciones móviles, a través de lenguajes de programación por bloques diseñados principalmente para iniciarse en la programación informática. 
 
 ![](img/preview.jpg "Recursos educativos mediante la programación")
 
+Esta actividad, catalogada de nivel B1 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
+
+- Área 1. Información y alfabetización informacional
+  - 1.3. Almacenamiento y recuperación de información, datos y contenidos digitales
+- Área 3: Creación de contenido digital
+  - 3.1. Desarrollo de contenidos digitales
+  - 3.2. Integración y reelaboración de contenidos digitales
+  - 3.3. Derechos de autor y licencias
+- Área 5: Resolución de problemas
+  - 5.2. Identificación de necesidades y respuestas tecnológicas
+  - 5.3. Innovación y uso de la tecnología de forma creativa
+
 ### Objetivos del curso
 
-1. Conocer lenguajes de programación por bloques.
-2. Gamificación en el aula para potenciar la motivación del alumnado.
-3. Creación de recursos educativos multimedia mediante la programación.
-4. Utilizar la programación como desarrollo hacia otras competencias.
+1. Conocer lenguajes de *programación por bloques*.
+2. *Gamificación* en el aula para potenciar la motivación del alumnado.
+3. Creación de *recursos educativos multimedia* mediante la programación.
+4. Utilizar la *programación* como desarrollo hacia otras competencias.
 
 
 
 <br />
+
 
 
 ## Pensamiento Computacional
