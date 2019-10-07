@@ -128,7 +128,7 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 
 - <a target="_blank" href="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-primaria">Diapositivas del curso presencial</a>
 
-## Enlaces de interés
+### Enlaces de interés
 
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de Scratch</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
