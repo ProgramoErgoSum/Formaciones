@@ -163,3 +163,16 @@ La experiencia ha resultado muy positiva y en el futuro inmediato se trabajará 
 - Mecanismo de elaboración de preguntas, por parte del alumnado, tipo test, con la consiguiente fijación y asimilación de contenidos.
 - Pre evaluación diagnóstica del grado de adquisición de los contenidos propios de cada uno de los temas o proyectos de trabajo con los que se desarrolla la programación docente.
 - Mecanismo de participación democrática en calidad de voto individual y parcialmente secreto, para la toma de decisiones grupales.
+
+
+
+<br />
+
+
+
+## Materiales
+
+### Enlaces de interés
+
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de Scratch</a>
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
