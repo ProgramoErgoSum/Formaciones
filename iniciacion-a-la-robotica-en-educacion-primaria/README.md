@@ -27,20 +27,6 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 
 
-<!--
-<br />
-
-
-
-## Diapositivas
-
-<div class="iframe">
-  <iframe src="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-primaria" allowfullscreen></iframe>
-</div>
--->
-
-
-
 <br />
 
 
@@ -131,3 +117,21 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 ![](img/6.jpg "Echidna Shield")
 
 > Accede a nuestro <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa/604-robotica-educativa-con-echidna-shield/introduccion">tutorial</a> de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
+
+
+
+<br />
+
+
+
+## Materiales
+
+- <a target="_blank" href="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-primaria">Diapositivas del curso presencial</a>
+
+## Enlaces de interés
+
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de Scratch</a>
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d">Tutoriales de Impresión 3D</a>
+
+- <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/blockly">Aprende a programar en Blockly</a>
