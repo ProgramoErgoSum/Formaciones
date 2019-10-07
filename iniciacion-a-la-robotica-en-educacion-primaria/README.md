@@ -133,5 +133,4 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de Scratch</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d">Tutoriales de Impresión 3D</a>
-
 - <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/blockly">Aprende a programar en Blockly</a>
