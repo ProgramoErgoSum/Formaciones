@@ -52,7 +52,7 @@ Una de las actividades que se puede realizar para desarrollar el pensamiento com
 
 Un ejemplo de actividad consiste en utilizar movimientos como si de un brazo robótico se tratase, para formar una escultura utilizando vasos de plástico. Dicha actividad está sacada de "My Robotic Friends" publicada por la Computer Science Education Week 2013.
 
-> Desde la web del proyecto <a target="_blank" href="csunplugged.org">csunplugged</a>, encontrarás decenas de actividades.
+> Desde la web del proyecto <a target="_blank" href="https://csunplugged.org/es/">csunplugged</a>, encontrarás decenas de actividades.
 
 Las instrucciones son muy sencillas; coger y soltar vaso, avanzar o retroceder brazo y girar 90º hacia la derecha o izquierda. En la siguiente imagen puedes ver que cada desplazamiento corresponde a una flecha.
 
