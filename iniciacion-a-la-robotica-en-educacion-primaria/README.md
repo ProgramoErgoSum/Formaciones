@@ -30,31 +30,15 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 <br />
 
 
-## Programación desenchufada
+## Programar sin ordenador
 
-Actualmente podemos encontrar numerosas actividades para desarrollar el pensamiento computacional desde educación infantil sin la necesidad de utilizar un ordenador. Estas actividades son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática.
+Actualmente podemos encontrar numerosas actividades para desarrollar el pensamiento computacional sin utilizar un ordenador. Actividades que no dependen del uso de ordenadores y así poder evitar la confusión entre la informática y la programación o el aprendizaje de programas de aplicaciones.
 
-<a target="_blank" href="https://csunplugged.org/es/">CS Unplugged</a> es una colección de material didáctico y de libre acceso que enseña las bases de la informática a través de interesantes juegos y puzles con la ayuda de cartas, cuerdas, lápices y mucha actividad física.
+Estas actividades de programación desconectada tienden a permitir que los alumnos descubran las respuestas por sí mismos, en lugar de darles soluciones o algoritmos que seguir, es decir, se fomenta un enfoque constructivista ya que queremos que los alumnos se den cuenta de que son capaces de encontrar soluciones a los problemas por su cuenta, en vez de darles una solución al problema.
 
-Todas las actividades del libro están planteadas de forma sencilla. En cada una de ellas se plantean un conjunto de instrucciones sobre cómo plantearlos, además de por supuesto unos objetivos y edades mínimas recomendadas. El objetivo principal del proyecto es promocionar la informática entre los niños, niñas y jóvenes.
+![](img/vasos.jpg "Programar sin ordenador")
 
-> Accede a la CS Unplugged para <a target="_blank" href="https://classic.csunplugged.org/books/">descargar</a> el libro en formato PDF.
-
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/KOYy4kyLEHs" allowfullscreen></iframe>
-</div>
-
-### Mis amigos robots
-
-Una de las actividades más conocidas es la denominada "Mis amigos robots", que consiste en utilizar movimientos como si de un brazo robótico se tratase para formar una escultura utilizando vasos de plástico. Para esta actividad necesitamos definir los roles de programador y robot, ya que los programadores se encargarán de realizar la secuencia de instrucciones y los robots deberán reconstruir la estructura siguiendo dichas instrucciones para obtener el mismo resultado.
-
-![](img/csunplugged.jpg "Programación sin ordenador")
-
-### El laberinto del robot
-
-Una actividad que surgió como implementación a una actividad realizada por <a target="_blank" href="https://twitter.com/Gorkaprofe/status/1079352225430978562">Gorka</a>, es la actividad de "El laberinto del robot". En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberás guiar a tu robot utilizando solamente 3 movimientos adelante, gira a la derecha y gira a la izquierda. Cada vez que te encuentres con un obstáculo será el turno de tu contrincante. El primero que logre atravesar el tablero gana la partida.
-
-![](img/laberinto.jpg "Laberinto por Gorka y Migue")
+> Accede a la entrada de nuestro blog donde explicamos cómo <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">programar sin ordenador</a>.
 
 
 
@@ -135,11 +119,20 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 ## Materiales
 
 - <a target="_blank" href="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-primaria">Diapositivas del curso presencial</a>
-
-### Enlaces de interés
-
 - <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de Scratch</a>
+
+
+
+<br />
+
+
+
+## Enlaces de interés
+
+- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/" title="Pensamiento computacional con Scratch">Pensamiento computacional con Scratch</a>.
+- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/" title="Aprender a programar sin ordenador">Aprender a programar sin ordenador</a>.
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de programación con Scratch</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
+
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d">Tutoriales de Impresión 3D</a>
 - <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/blockly">Aprende a programar en Blockly</a>

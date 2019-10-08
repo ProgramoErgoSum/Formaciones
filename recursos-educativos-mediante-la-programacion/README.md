@@ -142,6 +142,16 @@ La experiencia ha resultado muy positiva y en el futuro inmediato se trabajará 
 
 
 
+## Materiales
+
+- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
+
+
+
+<br />
+
+
+
 ## Enlaces de interés
 
 - <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/" title="Pensamiento computacional con Scratch">Pensamiento computacional con Scratch</a>.
