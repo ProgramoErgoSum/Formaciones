@@ -1,6 +1,6 @@
 ## Introducción
 
-Las nuevas tendencias pedagógicas que se están desarrollando e implementando apuestan decididamente por la integración de las tecnologías del aprendizaje y el conocimiento en las aulas. A través de éstas el alumno es capaz de desarrollar sus propios aprendizajes, siendo el protagonista del proceso de enseñanza - aprendizaje. Tanto los docentes como el alumnado han de poder desarrollar su competencia digital, de tal modo que el conocimiento adquirido sirva para lograr la aplicación práctica de lo aprendido con un objetivo pedagógico concreto. Dentro de esta tendencia se percibe que el pensamiento lógico-computacional también está siendo enfatizado. Por todo lo anterior es necesario dotar al profesorado de recursos pedagógicos para la programación informática de videojuegos, ordenadores y aplicaciones móviles, a través de lenguajes de programación por bloques diseñados principalmente para iniciarse en la programación informática. 
+Las nuevas tendencias pedagógicas que se están desarrollando apuestan por la integración de las tecnologías del aprendizaje y el conocimiento en las aulas. A través de éstas el alumno es capaz de desarrollar sus propios aprendizajes, siendo el protagonista del proceso de enseñanza y aprendizaje.
 
 ![](img/preview.jpg "Recursos educativos mediante la programación")
 
@@ -29,29 +29,19 @@ Esta actividad, catalogada de nivel B1 permite adquirir y/o desarrollar las sigu
 
 
 
-## Pensamiento Computacional
+## Pensamiento computacional
 
 El Pensamiento Computacional se define como el proceso por el cual nos enfrentamos a un problema aplicando habilidades propias de la computación y del pensamiento crítico. Dicho de otra forma, el pensamiento computacional implica resolver problemas cotidianos haciendo uso de los conceptos fundamentales de la programación informática para resolver problemas cuyas soluciones pueden ser representadas mediante una serie de pasos o instrucciones.
 
-> El pensamiento computacional es un proceso mental utilizado para formular problemas cuyas soluciones pueden ser llevadas a cabo por un ordenador.
+Una forma de desarrollar este tipo de aprendizaje es mediante Scratch, para ello iremos construyendo la programación de diferentes videojuegos paso a paso. Iremos incluyendo bloques partiendo de las necesidades más simples para completarlas según se necesiten.
 
-El pensamiento computacional implica un conjunto de técnicas y habilidades de resolución de problemas aplicados en los programas informáticos como la descomposición de problemas, abstracción de patrones, diseño de algoritmos, etc.
+> Accede a la entrada de nuestro blog donde explicamos qué es el <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">pensamiento computacional</a>.
 
-### Ejemplos de pensamiento computacional
+La lógica y el razonamiento de cada persona es diferente y esto hace que no solo haya una forma correcta de programar, sino que podríamos decir que tenemos tantas formas correctas como personas hayan dado con una de las posibles soluciones a un problema. Aunque también es cierto que tendremos soluciones más simples que otras, o que funcionen mejor. Y esto también es un aspecto a valorar y a tener en cuenta en cuanto a una posible evaluación de una buena estructura de programación.
 
-En la mayoría de los talleres que realizamos proponemos a los asistentes que realicen una receta siguiendo unos pasos o instrucciones. Esto sería un ejemplo de aplicar el pensamiento computacional. Por ejemplo, supongamos que queremos realizar un Risotto utilizando un sobre de comida preparada (para que sea más rápido). En este caso los pasos serían los siguientes:
+### Herramientas de programación
 
-- Abrir el sobre
-- Poner a calentar el agua
-- Esperar a que el agua hierva
-- Si hierve, verter el sobre
-- Remover el contenido de la olla
-- Apagar el fuego y dejar reposar
-- Servir en el plato para "x" personas
-
-Si el anterior algoritmo lo representamos utilizando un lenguaje de programación por bloques como Scratch, el resultado podría ser el siguiente:
-
-![](img/risotto.jpg "Risotto con Scratch")
+Para el desarrollo del pensamiento computacional apostamos por los lenguajes de programación visuales o por bloques como <a target="_blank" href="https://developers.google.com/blockly/">Blockly</a> o <a target="_blank" href="https://scratch.mit.edu">Scratch</a> y diferentes proyectos educativos alojados en <a target="_blank" href="https://code.org/">code.org</a>.
 
 
 
@@ -61,27 +51,13 @@ Si el anterior algoritmo lo representamos utilizando un lenguaje de programació
 
 ## Programar sin ordenador
 
-Una de las actividades que se puede realizar para desarrollar el pensamiento computacional consiste en trabajar la programación sin ordenador, actividades ideales para ir adquiriendo ciertas destrezas del mundo de la programación.
+Actualmente podemos encontrar numerosas actividades para desarrollar el pensamiento computacional sin utilizar un ordenador. Actividades que no dependen del uso de ordenadores y así poder evitar la confusión entre la informática y la programación o el aprendizaje de programas de aplicaciones.
 
-Un ejemplo de actividad consiste en utilizar movimientos como si de un brazo robótico se tratase, para formar una escultura utilizando vasos de plástico. Dicha actividad está sacada de "My Robotic Friends" publicada por la Computer Science Education Week 2013.
-
-> Desde la web del proyecto <a target="_blank" href="https://csunplugged.org/es/">csunplugged</a>, encontrarás decenas de actividades.
-
-Las instrucciones son muy sencillas; coger y soltar vaso, avanzar o retroceder brazo y girar 90º hacia la derecha o izquierda. En la siguiente imagen puedes ver que cada desplazamiento corresponde a una flecha.
+Estas actividades de programación desconectada tienden a permitir que los alumnos descubran las respuestas por sí mismos, en lugar de darles soluciones o algoritmos que seguir, es decir, se fomenta un enfoque constructivista ya que queremos que los alumnos se den cuenta de que son capaces de encontrar soluciones a los problemas por su cuenta, en vez de darles una solución al problema.
 
 ![](img/vasos.jpg "Programar sin ordenador")
 
-La actividad que se suele proponer es en grupos de cuatro personas, donde una pareja actúa como programador y la otra pareja como robot. Mientras los programadores están realizando la estructura e instrucciones de programación mediante flechas, la otra pareja sale de la clase para no ver el resultado final. Una vez los programadores han realizado la estructura, los robots deberán seguir las instrucciones programadas para crear la estructura. Si los programadores han realizado bien el trabajo, y los robots han seguido las instrucciones de forma correcta, el resultado de la escultura debe ser la que programaron los robots.
-
-![](img/vasos-programadores.jpg "Equipo programadores")
-
-![](img/vasos-robots.jpg "Equipo robots")
-
-El ISDI colabora con la Fundación Creáte en The Hour Of Code, en un taller de coding sin ordenador para los alumnos de primero y tercero de primaria del Colegio San Diego y San Vicente de Madrid.
-
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/l7FwWt16IY4" allowfullscreen></iframe>
-</div>
+> Accede a la entrada de nuestro blog donde explicamos cómo <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">programar sin ordenador</a>.
 
 
 
@@ -105,17 +81,11 @@ Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos
 
 
 
-## ¿Qué es Scratch?
-
-Scratch es un entorno gráfico de programación desarrollado por un grupo de investigadores del Lifelong Kindergarten Group del Laboratorio de Medios del MIT, bajo la dirección del Dr. Mitchel Resnick. Este entorno gráfico hace que la programación sea más atractiva y accesible para todo aquel que se enfrenta por primera vez a aprender un lenguaje de programación. Según sus creadores, fue diseñado como medio de expresión para ayudar a niños y jóvenes a expresar sus ideas de forma creativa, al tiempo que desarrollan habilidades de pensamiento lógico.
+## Videojuegos con Scratch
 
 La aplicación de los lenguajes de programación por bloques permite una presentación visual del paradigma y metodología de la programación informática permitiendo centrarse en la lógica de la programación dejando a un lado la sintaxis propia de los lenguajes de programación (puntos y comas, paréntesis, etc).
 
-### Videojuegos con Scratch
-
 Scratch está disponible en su versión online y su versión offline, siendo esta última multiplataforma, es decir, podemos instalar Scratch en nuestro sistema operativo de Windows, Linux o MAC. Por otro lado, la ventaja que tiene la versión online es que todos los proyectos o videojuegos realizados quedan almacenados en la nube pudiendo acceder desde cualquier ordenador. Lo único que necesitas es registrarte y confirmar la cuenta para poder compartir los proyectos con el resto de compañeros.
-
-En la siguiente imagen se muestra Scratch en su versión online desde el navegador Chrome, y Scratch offline instalado sobre un ordenador MAC.
 
 ![](img/scratch.jpg "Scratch online vs. offline")
 
@@ -129,11 +99,13 @@ En la siguiente imagen se muestra Scratch en su versión online desde el navegad
 
 ## Exposición de trabajos
 
-A continuación aparecen los proyectos realizados por los docentes que han participado en el curso de formación.
+A continuación aparecen los proyectos realizados por los docentes que han participado en las ediciones anteriores del curso de formación permanente del profesorado en el Centro de Profesorado y Recursos de la Regiónj de Murcia.
 
 ### Proyecto Bee-Bot en lengua y matemáticas
 
-> Este proyecto ha sido realizado por Alberto Campos, maestro del CEIP San José de Fuente Álamo (Murcia), dirigido a un grupo de 24 alumnos, de primer curso de Primaria. Se han realizado 2 actividades, una de Lengua y otra de Matemáticas.
+> Este proyecto ha sido realizado por Alberto Campos, maestro del CEIP San José de Fuente Álamo (Murcia), dirigido a un grupo de 24 alumnos, de primer curso de Primaria. 
+
+Se han realizado 2 actividades, una de Lengua y otra de Matemáticas. 
 
 La actividad de Lengua consiste en juntar sílabas, distribuidas por el tablero de Beebot, para formar palabras. El profesor escribirá en la pizarra 2 sílabas, y los alumnos deberán programar la Beebot para llegar a ellas y encontrar una palabra. En el tablero se marca la casilla de salida, desde donde partirá el robot, y los alumnos diseñarán 2 recorridos para alcanzar los cuadros donde se encuentran las sílabas pedidas. Estos alumnos están organizados en grupos, por lo que deberán descubrir y decidir entre todos un recorrido correcto. Se les reparten unas fichas de trabajo con el tablero dibujado, donde podrán realizar varios intentos para escribir los movimientos que seguirá la abeja, representada en un papel.
 
@@ -170,9 +142,9 @@ La experiencia ha resultado muy positiva y en el futuro inmediato se trabajará 
 
 
 
-## Materiales
+## Enlaces de interés
 
-### Enlaces de interés
-
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de Scratch</a>
+- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/" title="Pensamiento computacional con Scratch">Pensamiento computacional con Scratch</a>.
+- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/" title="Aprender a programar sin ordenador">Aprender a programar sin ordenador</a>.
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de programación con Scratch</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
