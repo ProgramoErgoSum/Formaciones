@@ -154,7 +154,7 @@ La experiencia ha resultado muy positiva y en el futuro inmediato se trabajará 
 
 ## Enlaces de interés
 
-- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/" title="Pensamiento computacional con Scratch">Pensamiento computacional con Scratch</a>.
-- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/" title="Aprender a programar sin ordenador">Aprender a programar sin ordenador</a>.
+- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">Pensamiento computacional con Scratch</a>
+- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de programación con Scratch</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>

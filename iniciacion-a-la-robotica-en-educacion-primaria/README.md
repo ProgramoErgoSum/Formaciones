@@ -129,10 +129,9 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 
 ## Enlaces de interés
 
-- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/" title="Pensamiento computacional con Scratch">Pensamiento computacional con Scratch</a>.
-- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/" title="Aprender a programar sin ordenador">Aprender a programar sin ordenador</a>.
+- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">Pensamiento computacional con Scratch</a>.
+- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>.
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de programación con Scratch</a>
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
-
 - <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d">Tutoriales de Impresión 3D</a>
 - <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/blockly">Aprende a programar en Blockly</a>
