@@ -32,18 +32,13 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 ## Programar sin ordenador
 
-Actualmente podemos encontrar numerosas actividades para aprender a programar sin ordenador, lo que se conoce como *programación desenchufada o desconectada*.
+Actualmente podemos encontrar numerosas actividades para <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">aprender a programar sin ordenador</a>, lo que se conoce como *programación desenchufada o desconectada*.
 
 Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática. Además suelen ser actividades de bajo coste al usar materiales encontrados en las aulas.
 
 ![](img/vasos.jpg "Programar sin ordenador")
 
 Otra característica importante es que además de ser beneficiosas para desarrollar el <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">pensamiento computacional</a>, los alumnos descubren las respuestas a los problemas por sí mismos, fomentando un enfoque constructivista, en vez de darles una solución al problema.
-
-#### Enlaces de interés
-
-- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
-- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>
 
 
 
