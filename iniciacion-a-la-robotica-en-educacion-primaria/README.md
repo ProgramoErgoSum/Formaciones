@@ -118,7 +118,6 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 
 ## Materiales
 
-- <a target="_blank" href="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-primaria">Diapositivas del curso presencial</a>
 - <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
 
 
