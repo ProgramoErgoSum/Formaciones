@@ -40,11 +40,6 @@ Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas d
 
 Otra característica importante es que además de ser beneficiosas para desarrollar el <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">pensamiento computacional</a>, los alumnos descubren las respuestas a los problemas por sí mismos, fomentando un enfoque constructivista, en vez de darles una solución al problema.
 
-#### Enlaces de interés
-
-- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
-- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>
-
 
 
 <br />
