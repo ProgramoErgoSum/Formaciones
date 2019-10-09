@@ -32,13 +32,18 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 ## Programar sin ordenador
 
-Actualmente podemos encontrar numerosas actividades para desarrollar el pensamiento computacional sin utilizar un ordenador. Actividades que no dependen del uso de ordenadores y así poder evitar la confusión entre la informática y la programación o el aprendizaje de programas de aplicaciones.
+Actualmente podemos encontrar numerosas actividades para aprender a programar sin ordenador, lo que se conoce como *programación desenchufada o desconectada*.
 
-Estas actividades de programación desconectada tienden a permitir que los alumnos descubran las respuestas por sí mismos, en lugar de darles soluciones o algoritmos que seguir, es decir, se fomenta un enfoque constructivista ya que queremos que los alumnos se den cuenta de que son capaces de encontrar soluciones a los problemas por su cuenta, en vez de darles una solución al problema.
+Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática. Además suelen ser actividades de bajo coste al usar materiales encontrados en las aulas.
 
 ![](img/vasos.jpg "Programar sin ordenador")
 
-> Accede a la entrada de nuestro blog donde explicamos cómo <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">programar sin ordenador</a>.
+Otra característica importante es que además de ser beneficiosas para desarrollar el <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">pensamiento computacional</a>, los alumnos descubren las respuestas a los problemas por sí mismos, fomentando un enfoque constructivista, en vez de darles una solución al problema.
+
+#### Enlaces de interés
+
+- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
+- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>
 
 
 
