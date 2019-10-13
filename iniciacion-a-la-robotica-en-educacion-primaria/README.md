@@ -1,6 +1,6 @@
 ## Introducción
 
-El curso surge ante la necesidad de dotar a los centros de recursos pedagógicos para la programación y el uso de robots en las aulas. Se utilizarán materiales y placas de hardware libre y de código abierto que permiten la creación de robots. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los jóvenes por la tecnología. 
+El curso surge ante la necesidad de dotar a los centros de recursos pedagógicos para el uso de robots en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
 
 ![](img/preview.jpg "Iniciación a la Robótica en Educación Primaria")
 
@@ -32,13 +32,20 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 ## Programar sin ordenador
 
-Actualmente podemos encontrar numerosas actividades para <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">aprender a programar sin ordenador</a>, lo que se conoce como *programación desenchufada o desconectada*.
+Actualmente podemos encontrar numerosas actividades para aprender a programar sin ordenador, lo que se conoce como *programación desenchufada o desconectada*.
 
-Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática. Además suelen ser actividades de bajo coste al usar materiales encontrados en las aulas.
+![](img/cody-rody.jpg.jpg "Cody Roby")
 
-![](img/vasos.jpg "Programar sin ordenador")
+Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática además de ser beneficiosas para el desarrollo del pensamiento computacional, donde los alumnos descubren las respuestas a los problemas por sí mismos fomentando un enfoque constructivista, en vez de darles una solución al problema. 
 
-Otra característica importante es que además de ser beneficiosas para desarrollar el <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">pensamiento computacional</a>, los alumnos descubren las respuestas a los problemas por sí mismos, fomentando un enfoque constructivista, en vez de darles una solución al problema.
+Pero lo más importante es que estas actividades suelen ser de bajo coste al usar materiales encontrados en las aulas.
+
+![](img/mis-amigos-robots.jpg "Mis amigos robots")
+
+#### Enlaces de interés
+
+- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro en PDF de actividades de programación sin ordenador</a>
+- <a target="_blank" href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Ejemplos de actividades para aprender a programar sin ordenador</a>
 
 
 
