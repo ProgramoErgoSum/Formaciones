@@ -2,9 +2,11 @@
 
 El curso surge ante la necesidad de dotar a los centros de recursos pedagógicos para el uso de robots en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
 
-![](img/preview.jpg "Iniciación a la Robótica en Educación Primaria")
+![](img/preview.jpg "Centro de Profesores y Recursos, Región de Murcia")
 
-Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
+### Competencias profesionales
+
+Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del *Marco Común de la Competencia Digital Docente*.
 
 - Área 1: Información y alfabetización informacional
   - 1.1. Navegación, búsqueda y filtrado de información, datos y contenidos digitales

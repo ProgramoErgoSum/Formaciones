@@ -2,9 +2,11 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
 
-![](img/preview.jpg "Programación en Python con Raspberry Pi")
+![](img/preview.jpg "Centro de Profesores y Recursos, Región de Murcia")
 
-Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
+### Competencias profesionales
+
+Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del *Marco Común de la Competencia Digital Docente*.
 
 - Área 1: Información y alfabetización informacional
   - 1.1. Navegación, búsqueda y filtrado de información, datos y contenidos digitales
@@ -156,18 +158,3 @@ Un reto propuesto consiste en realizar unas mejoras a un laberinto programado en
 Pueden crearse diferentes mejoras e implementaciones además de la posibilidad de utilizar los pines GPIO para interactuar con Minecraft conectando el mundo físico con el mundo digital.
 
 ![](img/minecraft.gif "Laberinto en Minecraft Pi con Pines GPIO")
-
-
-
-<br />
-
-
-
-## Materiales
-
-- <a target="_blank" href="https://wikitic.github.io/programacion-en-python-con-raspberry-pi">Diapositivas del curso presencial</a>
-
-### Enlaces de interés
-
-- <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">Aprende a programar en Python</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi">Tutoriales de Raspberry Pi</a>
