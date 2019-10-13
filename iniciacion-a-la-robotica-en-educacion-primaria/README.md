@@ -120,26 +120,12 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 > Accede a nuestro <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa/604-robotica-educativa-con-echidna-shield/introduccion">tutorial</a> de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
 
 
-
+<!--
 <br />
 
 
 
 ## Materiales
 
-- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
-
-
-
-<br />
-
-
-
-## Enlaces de interés
-
-- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">Pensamiento computacional con Scratch</a>.
-- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>.
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de programación con Scratch</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d">Tutoriales de Impresión 3D</a>
-- <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/blockly">Aprende a programar en Blockly</a>
+- <a target="_blank" href="">Diapositivas del curso</a>
+-->
