@@ -34,7 +34,7 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 Actualmente podemos encontrar numerosas actividades para aprender a programar sin ordenador, lo que se conoce como *programación desenchufada o desconectada*.
 
-![](img/cody-rody.jpg "Cody Roby")
+![](img/cody-roby.jpg "Cody Roby")
 
 Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática además de ser beneficiosas para el desarrollo del pensamiento computacional, donde los alumnos descubren las respuestas a los problemas por sí mismos fomentando un enfoque constructivista, en vez de darles una solución al problema. 
 
