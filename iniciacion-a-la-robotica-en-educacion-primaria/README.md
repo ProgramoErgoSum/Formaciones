@@ -53,19 +53,19 @@ Pero lo más importante es que estas actividades suelen ser de bajo coste al usa
 
 
 
-## Robots de suelo
+## Robots educativos de suelo
 
 Aunque el robot de suelo más conocido es la famosa abeja *Beebot*, podemos encontrar otros robots para utilizar en el aula con nuestros alumnos desde educación infantil, como son el robot *Next*, *Mouse* o el proyecto *Escornabot*.
 
-En este curso nos centramos en el robot Escornabot por ser un proyecto educativo de código abierto con una ámplia comunidad que lo difunde de forma desinteresada.
+![](img/beebot.jpg "Juego de la escalera con Beebot")
 
-<a target="_blank" href="http://escornabot.com">Escornabot</a> es un proyecto de robot educativo que nace en la Asociación Bricolabs, para iniciarse en el campo de la robótica y la programación que puede ejecutar secuencias de movimientos que son programadas por el usuario mediante la pulsación de botones del robot o introduciendo comandos en un dispositivo móvil con conexión Bluetooth. Similar a otros robots de suelo como Beebot, Next, etc. lo que hace especial a Escornabot es la filosofía que sigue de proyecto de código y hardware abierto.
+Sin embargo, el robot de suelo que más nos gusta es el robot Escornabot, que lo hace especial por seguir la filosofía de proyecto de código y hardware abierto.
 
 ![](img/escornabot.jpg "Robot de suelo Escornabot")
 
 #### Enlaces de interés
 
-- <a target="_blank" href="https://pablorubma.cc/escornabot/">Web de Pablo Rubio (Escornafan)</a>
+- <a target="_blank" href="https://www.programoergosum.es/blog/robots-educativos-de-suelo/">Comparativa de los diferentes robots de suelo</a>
 
 
 
