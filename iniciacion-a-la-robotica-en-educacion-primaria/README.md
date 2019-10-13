@@ -55,15 +55,17 @@ Pero lo más importante es que estas actividades suelen ser de bajo coste al usa
 
 ## Robots de suelo
 
-Aunque el robot de suelo más conocido es la famosa abeja Beebot, podemos encontrar otros robots. En este curso presencial de introducción a la robótica desde etapas de educación infantil, se ha utilizado el robot <a target="_blank" href="http://escornabot.com">Escornabot</a> por todas las ventajas que conlleva sobre otros robots educativos.
+Aunque el robot de suelo más conocido es la famosa abeja *Beebot*, podemos encontrar otros robots para utilizar en el aula con nuestros alumnos desde educación infantil, como son el robot *Next*, *Mouse* o el proyecto *Escornabot*.
 
-### ¿Qué es Escornabot?
+En este curso nos centramos en el robot Escornabot por ser un proyecto educativo de código abierto con una ámplia comunidad que lo difunde de forma desinteresada.
 
-Escornabot es un proyecto de robot educativo para iniciarse en el campo de la robótica y la programación que puede ejecutar secuencias de movimientos que son programadas por el usuario mediante la pulsación de botones del robot o introduciendo comandos en un dispositivo móvil con conexión Bluetooth. Similar a otros robots de suelo como Beebot, Next, etc. lo que hace especial a Escornabot es la filosofía que sigue de proyecto de código y hardware abierto.
+<a target="_blank" href="http://escornabot.com">Escornabot</a> es un proyecto de robot educativo que nace en la Asociación Bricolabs, para iniciarse en el campo de la robótica y la programación que puede ejecutar secuencias de movimientos que son programadas por el usuario mediante la pulsación de botones del robot o introduciendo comandos en un dispositivo móvil con conexión Bluetooth. Similar a otros robots de suelo como Beebot, Next, etc. lo que hace especial a Escornabot es la filosofía que sigue de proyecto de código y hardware abierto.
 
-![](img/escornabot.jpg "Robot educativo Escornabot")
+![](img/escornabot.jpg "Robot de suelo Escornabot")
 
-Aunque nace en la asociación de makers <a target="_blank" href="https://bricolabs.cc/">Bricolabs</a> (Galicia), son muchos los que aportan y difunden el proyecto para que más niños y niñas sientan interés por la programación y la robótica desde cero, uno de ellos es <a target="_blank" href="https://pablorubma.cc/escornabot/">Pablo Rubio</a>.
+#### Enlaces de interés
+
+- <a target="_blank" href="https://pablorubma.cc/escornabot/">Web de Pablo Rubio (Escornafan)</a>
 
 
 
