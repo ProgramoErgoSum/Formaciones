@@ -34,20 +34,21 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 ## Programar sin ordenador
 
-Actualmente podemos encontrar numerosas actividades para aprender a programar sin ordenador, lo que se conoce como *programación desenchufada o desconectada*.
+Son numerosas las páginas, programas o robots pensados para el desarrollo del pensamiento computacional desde edades tempranas. Sin embargo, también podemos encontrar actividades para aprender a programar sin necesidad de utilizar un ordenador o dispositivo informático, lo que se conoce como *programación desenchufada o desconectada*.
+
+> En este artículo explicamos algunas actividades para <a target="_blank" href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">aprender a programar sin ordenador</a>.
+
+Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes actividades relacionadas con el aprendizaje de la programación, utilizando material comúnmente encontrado en las aulas de educación infantil y primaria.
 
 ![](img/cody-roby.jpg "Cody Roby")
 
-Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática además de ser beneficiosas para el desarrollo del pensamiento computacional, donde los alumnos descubren las respuestas a los problemas por sí mismos fomentando un enfoque constructivista, en vez de darles una solución al problema. 
-
-Pero lo más importante es que estas actividades suelen ser de bajo coste al usar materiales encontrados en las aulas.
+Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática y la robótica educativa ya que los alumnos descubren las respuestas a los problemas por sí mismos fomentando un enfoque constructivista.
 
 ![](img/mis-amigos-robots.jpg "Mis amigos robots")
 
-#### Enlaces de interés
+Además, con un poco de imaginación se pueden crear diferentes juegos educativos para fomentar la lógica computacional. Juegos basados en programas como Scratch Jr. creado utilizando piezas impresas en 3D pero que perfectamente podrían haber sido creadas utilizando otro tipo de materiales como cartón pluma o goma eva entre otros muchos materiales.
 
-- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro en PDF de actividades de programación sin ordenador</a>
-- <a target="_blank" href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Ejemplos de actividades para aprender a programar sin ordenador</a>
+![](img/aprende-a-programar.jpg "Aprende a programar")
 
 
 
