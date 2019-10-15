@@ -36,7 +36,7 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 Son numerosas las páginas, programas o robots pensados para el desarrollo del pensamiento computacional desde edades tempranas. Sin embargo, también podemos encontrar actividades para aprender a programar sin necesidad de utilizar un ordenador o dispositivo informático, lo que se conoce como *programación desenchufada o desconectada*.
 
-> En este artículo explicamos algunas actividades para <a target="_blank" href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">aprender a programar sin ordenador</a>.
+> Accede al artículo donde explicamos algunas actividades para <a target="_blank" href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">aprender a programar sin ordenador</a>.
 
 Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes actividades relacionadas con el aprendizaje de la programación, utilizando material comúnmente encontrado en las aulas de educación infantil y primaria.
 
@@ -58,17 +58,17 @@ Además, con un poco de imaginación se pueden crear diferentes juegos educativo
 
 ## Robots educativos de suelo
 
-Aunque el robot de suelo más conocido es la famosa abeja *Beebot*, podemos encontrar otros robots para utilizar en el aula con nuestros alumnos desde educación infantil, como son el robot *Next*, *Mouse* o el proyecto *Escornabot*.
+Aunque el robot educativo de suelo más conocido suele ser la famosa abeja *Beebot*, podemos encontrar otros robots de características muy similares para utilizar en el aula con nuestros alumnos, como es el caso de *Next*, *Mouse* o el proyecto *Escornabot*, entre muchos otros.
 
-![](img/beebot.jpg "Juego de la escalera con Beebot")
+> Accede al artículo donde realizamos una comparativa sobre los diferentes <a target="_blank" href="https://www.programoergosum.es/blog/robots-educativos-de-suelo/">robots educativos de suelo</a>.
 
-Sin embargo, el robot de suelo que más nos gusta es el robot Escornabot, que lo hace especial por seguir la filosofía de proyecto de código y hardware abierto.
+Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes robots educativos para que sean los propios docentes los que las tomen conclusiones de primera mano.
+
+![](img/beebot.jpg "Juego de la escalera")
+
+En nuestro caso, el robot de suelo que más nos gusta y sobre todo recomendamos, es el *Escornabot*. Lo que lo hace especial es la filosofía de proyecto de código y hardware abierto que sigue el proyecto, además de la ámplica comunidad educativa que puedes encontrar en sus redes sociales.
 
 ![](img/escornabot.jpg "Robot de suelo Escornabot")
-
-#### Enlaces de interés
-
-- <a target="_blank" href="https://www.programoergosum.es/blog/robots-educativos-de-suelo/">Comparativa de los diferentes robots de suelo</a>
 
 
 
