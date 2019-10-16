@@ -68,6 +68,8 @@ Durante esta sesión del curso, destinada a la **introducción al pensamiento co
 
 En nuestro caso, el robot de suelo que más nos gusta y sobre todo recomendamos, es el *Escornabot*. Lo que lo hace especial es la filosofía de proyecto de código y hardware abierto que sigue, además de la ámplia comunidad educativa que puedes encontrar en sus redes sociales.
 
+En este curso los docentes aprenden las partes principales del robot Escornabot en su versión <a target="_blank" href="https://www.thingiverse.com/thing:3269696">2.12 Xdesig</a> al mismo tiempo que lo montan.
+
 ![](img/escornabot.jpg "Robot de suelo Escornabot")
 
 
