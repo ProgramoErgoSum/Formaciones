@@ -78,6 +78,20 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 
 
+## La Hora del Código
+
+La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Es una de las iniciativas preferidas por muchos de los docentes interesados en introducir la programación en el aula ya que disponene de numerosos materiales con asistentes interactivos para un aprendizaje guiado.
+
+Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos con el mismo objetivo de acercar la programación desde edades tempranas y para todos los niveles.
+
+> Puedes acceder a todos los proyectos desde la web de <a target="_blank" href="https://hourofcode.com/es">https://hourofcode.com/</a>.
+
+
+
+<br />
+
+
+
 ## Impresión 3D
 
 La impresión 3D está empezando a verse y utilizarse en los centros educativos. Es así porque profesores se han dado cuenta del valor de la impresora 3D como una herramienta para enseñar a la próxima generación de inventores.
