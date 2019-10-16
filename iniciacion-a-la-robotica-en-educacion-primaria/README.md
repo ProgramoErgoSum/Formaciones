@@ -92,7 +92,7 @@ Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos
 
 
 
-## Impresión 3D
+## Maker e Impresión 3D
 
 La impresión 3D está empezando a verse y utilizarse en los centros educativos. Es así porque profesores se han dado cuenta del valor de la impresora 3D como una herramienta para enseñar a la próxima generación de inventores.
 
