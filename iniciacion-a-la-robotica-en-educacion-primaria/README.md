@@ -106,11 +106,12 @@ Aunque parezca cosa solo de ingenieros, son muchos los tipos de impresoras que p
 
 Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con programas preparados para utilizarse con jóvenes, como es el caso de <a target="_blank" href="https://www.tinkercad.com/">TinkerCAD</a>.
 
+> Puedes acceder al <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion">tutorial</a> de iniciación a Tinkercad de esta misma plataforma.
+
+
 ![](img/tinkercad.jpg "Llaveros en TinkerCAD")
 
 El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
-
-> Puedes acceder al <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion">tutorial</a> de iniciación a Tinkercad de esta misma plataforma.
 
 
 
