@@ -94,19 +94,23 @@ Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos
 
 
 
-## Maker e Impresión 3D
+## Movimiento maker e Impresión 3D
 
-La impresión 3D está empezando a verse y utilizarse en los centros educativos. Es así porque profesores se han dado cuenta del valor de la impresora 3D como una herramienta para enseñar a la próxima generación de inventores.
+La impresión 3D está empezando a utilizarse en los centros educativos. Es así porque profesores se han dado cuenta del valor de la impresora 3D como una herramienta para enseñar a la próxima generación de inventores.
 
-Aunque parezca cosa solo de ingenieros, existe multitud de software preparado para utilizarse con jóvenes, como es el caso de <a target="_blank" href="https://www.tinkercad.com/">TinkerCAD</a>.
+Aunque parezca cosa solo de ingenieros, son muchos los tipos de impresoras que podemos encontrar para iniciarse en este maravilloso mundo del movimiento maker en educación. Una de las más conocidas en el ámbito educativo es la impresora *Da Vinci* por su sencillez en el uso así como por su precio. Aunque hay quienes prefieren hacerse con una impresora más profesional y potente para sacarle el máximo partido.
+
+> Antes de comprar una impresora es buena idea hacer una comparativa en lo que se necesita.
+
+![](img/xyz-printing.jpg "Impresora 3D Da Vinci mini")
+
+Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con programas preparados para utilizarse con jóvenes, como es el caso de <a target="_blank" href="https://www.tinkercad.com/">TinkerCAD</a>.
+
+![](img/tinkercad.jpg "Llaveros en TinkerCAD")
 
 El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
 
 > Puedes acceder al <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion">tutorial</a> de iniciación a Tinkercad de esta misma plataforma.
-
-![](img/tinkercad.jpg "Llaveros en TinkerCAD")
-
-Como se puede observar, TinkerCAD es sencillo de usar, atractivo y con unas pocas horas de entrenamiento podemos adquirir mucha destreza en su uso. Como desventaja podríamos decir que es necesario tener una cuenta de correo para darse de alta como usuario y que sólo posee una versión online.
 
 
 
