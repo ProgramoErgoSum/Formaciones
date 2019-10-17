@@ -84,9 +84,13 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Es una de las iniciativas preferidas por muchos de los docentes interesados en introducir la programación en el aula ya que disponene de numerosos materiales con asistentes interactivos para un aprendizaje guiado.
 
-Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos con el mismo objetivo de acercar la programación desde edades tempranas y para todos los niveles.
+Lo mejor de esta plataforma es que se puede empezar a programar sin tener ningún conocimiento ya que los cursos empiezan desde cero para poder utilizarse en el aula desde educación infantil. Además, cada curso viene acompañado de una documentación muy completa para el profesor con soluciones a los ejercicios.
+
+![](img/codeorg.jpg "La Hora del Código")
 
 > Puedes acceder a todos los proyectos desde la web de <a target="_blank" href="https://hourofcode.com/es">https://hourofcode.com/</a>.
+
+Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos con el mismo objetivo de acercar la programación desde edades tempranas y para todos los niveles.
 
 
 
