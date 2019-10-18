@@ -44,18 +44,7 @@ Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la en
 
 El sistema operativo elegido y recomendado es Raspbian al estar optimizado para el procesador ARM (frente a los procesadores x86 que podemos encontrar en los PC de un aula convencional). Para más información sobre la arquitectura del procesador y modos de instalación accede al curso de instalación de Raspbian en Raspberry Pi de esta misma plataforma donde lo explicamos a través de videotutoriales.
 
-### Instalación de Raspbian
-
-Para instalar Raspbian en nuestra Raspberry Pi disponemos de dos versiones; una más completa con entorno gráfico y otra más reducida sin entorno gráfico.
-
-- Raspbian Pixel: Versión completa con entorno gráfico de Raspbian, es decir, la versión de escritorio con menús, ventanas, iconos, fondos de pantalla, etc. utilizado por la mayoría de los usuarios como ordenador de sobremesa.
-- Raspbian Lite: Versión reducida sin entorno gráfico, es decir, la versión en modo consola sin gráficos. Esta opción generalmente es para usuarios avanzados con conocimientos de Linux que utilizan la Raspberry Pi como servidor.
-
-### Primeros pasos con Raspbian
-
-Una vez instalado el sistema operativo podemos realizar una puesta a punto mediante la actualización e instalación del software recomendado para educación.
-
-Es recomendable realizar una copia de seguridad en otra tarjeta SD a modo de respaldo en caso de catástrofe. Además, de esta forma podemos volcar el contenido de la imagen ya creada.
+> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/raspberry-pi) de Raspberry Pi.
 
 
 
