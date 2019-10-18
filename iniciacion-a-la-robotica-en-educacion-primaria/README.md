@@ -88,12 +88,13 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 ![](img/codeorg.jpg "Plataforma Code.org")
 
-Para los docentes, se incluye un apartado acompañado de una documentación muy completa con soluciones a los ejercicios. PAra ello hay que crear una cuenta como docente. Una vez creada la cuenta de profesor podemos crear gurpos de alumnos o aulas virtuales para ver y revisar el progreso de nuestros alumnos.
+Para los docentes, se incluye un apartado acompañado de una documentación muy completa con soluciones a los ejercicios. Para ello hay que crear una cuenta como docente. Una vez creada la cuenta de profesor podemos crear gurpos de alumnos o aulas virtuales para ver y revisar el progreso de nuestros alumnos.
 
 ![](img/profesores.jpg "Sección profesores")
 
 Durante esta sesión del curso, destinada a la **introducción a los lenguajes de programación**, probamos diferentes cursos y lecciones de la plataforma para aprender a programar con el lenguaje de programación por bloques.
 
+<!--
 Los ejercicios a realizar dependiendo el alumnado pueden ser los siguientes:
 
 - [Curso 1](https://studio.code.org/s/course1): 4 a 6 años
@@ -118,7 +119,7 @@ Los ejercicios a realizar dependiendo el alumnado pueden ser los siguientes:
   - Etapa 20: Avanzados
   - Etapa 21: Muy avanzados
   - Etapa 22: Súper avanzados
-
+-->
 
 
 <br />
