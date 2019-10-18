@@ -92,7 +92,9 @@ Durante esta sesión del curso, destinada a la **introducción a los lenguajes d
 
 Las principales actividades probadas han sido las siguientes:
 
-- [![](code.org/images/fill-480x360/lightbot.jpg "Lightbot")](https://lightbot.com/hour-of-code.html)
+![](https://code.org/images/fill-480x360/lightbot.jpg "Lightbot")
+
+- [Lightbot](https://lightbot.com/hour-of-code.html)
 
 
 
