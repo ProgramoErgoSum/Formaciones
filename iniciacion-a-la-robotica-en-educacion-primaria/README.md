@@ -84,11 +84,27 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Es una de las iniciativas preferidas por muchos de los docentes interesados en introducir la programación en el aula ya que disponene de numerosos materiales con asistentes interactivos para un aprendizaje guiado.
 
-Lo mejor de esta plataforma es que se puede empezar a programar sin tener ningún conocimiento ya que los cursos empiezan desde cero para poder utilizarse en el aula desde educación infantil. Además, cada curso viene acompañado de una documentación muy completa para el profesor con soluciones a los ejercicios.
+Podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos. Como se puede observr en la siguiente imagen, en cada una de las actividades aparece el nombre del proyecto, una pequeña descripción, y lo más importante, la edad recomendada de la actividad.
+
+![](img/actividades.jpg "La Hora del Código")
+
+Durante esta sesión del curso, destinada a la **introducción a los lenguajes de programación**, probamos diferentes actividades de La Hora del Código para que sean los propios maestros y maestras los que puedan sacar conclusiones sobre su uso e implementación dentro del aula.
+
+Las principales actividades probadas han sido las siguientes:
+
+- [![](code.org/images/fill-480x360/lightbot.jpg "Lightbot")](https://lightbot.com/hour-of-code.html)
+
+
+
+<br />
+
+
+
+## Plataforma Code.org
+
+Esta plataforma es perfecta para aprender la lógica de la programación a través de los lenguajes de programación por bloques. Con sus asistente guiado no es necesario tener conocimientos con lo que se puede utilizar en el aula desde educación infantil. Además, cada curso viene acompañado de una documentación muy completa para el profesor con soluciones a los ejercicios.
 
 ![](img/codeorg.jpg "La Hora del Código")
-
-> Puedes acceder a todos los proyectos desde la web de [https://hourofcode.com/](https://hourofcode.com/es).
 
 Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos con el mismo objetivo de acercar la programación desde edades tempranas y para todos los niveles.
 
