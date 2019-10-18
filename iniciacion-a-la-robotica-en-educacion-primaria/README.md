@@ -84,6 +84,8 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 [Code.org](https://code.org/) es la plataforma perfecta para aprender la lógica de la programación a través de los lenguajes de programación por bloques. Con sus asistente guiado no es necesario tener conocimientos con lo que se puede utilizar en el aula desde educación infantil.
 
+> Accede al artículo donde explicamos como puedes [aprender a programar en La Hora del Código](https://www.programoergosum.es/blog/aprender-a-programar-con-la-hora-del-codigo).
+
 ![](img/codeorg.jpg "Plataforma Code.org")
 
 Para los docentes, se incluye un apartado acompañado de una documentación muy completa con soluciones a los ejercicios. PAra ello hay que crear una cuenta como docente. Una vez creada la cuenta de profesor podemos crear gurpos de alumnos o aulas virtuales para ver y revisar el progreso de nuestros alumnos.
@@ -130,12 +132,6 @@ La Hora del Código es una iniciativa que tiene como objetivo incentivar a los e
 Podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos. Como se puede observr en la siguiente imagen, en cada una de las actividades aparece el nombre del proyecto, una pequeña descripción, las características técnicas y la edad recomendada de la actividad.
 
 ![](img/actividades.jpg "La Hora del Código")
-
-Durante esta sesión del curso, destinada a la **introducción a los lenguajes de programación**, probamos diferentes actividades de La Hora del Código para que sean los propios maestros y maestras los que puedan sacar conclusiones sobre su uso e implementación dentro del aula.
-
-Las principales actividades probadas han sido las siguientes:
-
-- [Lightbot](https://lightbot.com/hour-of-code.html)
 
 
 
