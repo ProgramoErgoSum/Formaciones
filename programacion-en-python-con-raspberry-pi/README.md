@@ -69,7 +69,7 @@ Python es un lenguaje de programación interpretado de tipado dinámico cuya fil
 
 ![](img/aprendeprogramando.jpg "Plataforma AprendeProgramando en Python")
 
-> Para el aprendizaje de Python utilizamos la plataforma de aprendizaje guiado <a target="_blank" href="https://www.aprendeprogramando.es/cursos-online/python">Aprende Programando en Python</a>.
+> Para el aprendizaje de Python utilizamos la plataforma de aprendizaje guiado [Aprende Programando en Python](https://www.aprendeprogramando.es/cursos-online/python).
 
 
 

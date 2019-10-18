@@ -28,7 +28,7 @@ Además se ha explicado las ventajas e incovenientes que tienen cada uno y se ha
 
 ![](img/lightbot.gif "http://lightbot.com/flash.html")
 
-> Puedes acceder a todos los proyectos desde la web de <a target="_blank" href="https://hourofcode.com/es/learn">HourOfCode.org</a>.
+> Puedes acceder a todos los proyectos desde la web de [HourOfCode.org](https://hourofcode.com/es/learn).
 
 
 
@@ -44,7 +44,7 @@ El primer paso es adquirir conocimientos básicos sobre la programación de hist
 
 ![](img/caperucita.gif "Caperucita Roja con Scratch")
 
-Para crear tu propio videojuego con Scratch te recomiendo seguir una serie de pautas. La primera de ellas será crear en el escenario de Scratch la asignación de personajes con llamadas a eventos, y en cada personaje programar su ejecución. Accede a la <a target="_blank" href="https://scratch.mit.edu/projects/146318820/">animación</a> en Scratch para entender el concepto y completar el cuento de caperucita roja.
+Para crear tu propio videojuego con Scratch te recomiendo seguir una serie de pautas. La primera de ellas será crear en el escenario de Scratch la asignación de personajes con llamadas a eventos, y en cada personaje programar su ejecución. Accede a la [animación](https://scratch.mit.edu/projects/146318820/) en Scratch para entender el concepto y completar el cuento de caperucita roja.
 
 
 

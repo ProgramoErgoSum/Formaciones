@@ -35,13 +35,13 @@ El Pensamiento Computacional se define como el proceso por el cual nos enfrentam
 
 Una forma de desarrollar este tipo de aprendizaje es mediante Scratch, para ello iremos construyendo la programación de diferentes videojuegos paso a paso. Iremos incluyendo bloques partiendo de las necesidades más simples para completarlas según se necesiten.
 
-> Accede a la entrada de nuestro blog donde explicamos qué es el <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">pensamiento computacional</a>.
+> Accede a la entrada de nuestro blog donde explicamos qué es el [pensamiento computacional](https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/).
 
 La lógica y el razonamiento de cada persona es diferente y esto hace que no solo haya una forma correcta de programar, sino que podríamos decir que tenemos tantas formas correctas como personas hayan dado con una de las posibles soluciones a un problema. Aunque también es cierto que tendremos soluciones más simples que otras, o que funcionen mejor. Y esto también es un aspecto a valorar y a tener en cuenta en cuanto a una posible evaluación de una buena estructura de programación.
 
 ### Herramientas de programación
 
-Para el desarrollo del pensamiento computacional apostamos por los lenguajes de programación visuales o por bloques como <a target="_blank" href="https://developers.google.com/blockly/">Blockly</a> o <a target="_blank" href="https://scratch.mit.edu">Scratch</a> y diferentes proyectos educativos alojados en <a target="_blank" href="https://code.org/">code.org</a>.
+Para el desarrollo del pensamiento computacional apostamos por los lenguajes de programación visuales o por bloques como [Blockly](https://developers.google.com/blockly/) o [Scratch](https://scratch.mit.edu) y diferentes proyectos educativos alojados en [code.org](https://code.org/).
 
 
 
@@ -57,7 +57,7 @@ Estas actividades de programación desconectada tienden a permitir que los alumn
 
 ![](img/vasos.jpg "Programar sin ordenador")
 
-> Accede a la entrada de nuestro blog donde explicamos cómo <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">programar sin ordenador</a>.
+> Accede a la entrada de nuestro blog donde explicamos cómo [programar sin ordenador](https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/).
 
 
 
@@ -73,7 +73,7 @@ Esta herramienta es la preferida por muchos de los docentes interesados en intro
 
 Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos con el mismo objetivo de acercar la programación desde edades tempranas y para todos los niveles.
 
-> Puedes acceder a todos los proyectos desde la web de <a target="_blank" href="https://hourofcode.com/es/learn">HourOfCode.org</a>.
+> Puedes acceder a todos los proyectos desde la web de [HourOfCode.org](https://hourofcode.com/es/learn).
 
 
 
@@ -89,7 +89,7 @@ Scratch está disponible en su versión online y su versión offline, siendo est
 
 ![](img/scratch.jpg "Scratch online vs. offline")
 
-> Puedes acceder a nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">tutoriales</a> de programación con Scratch.
+> Puedes acceder a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch) de programación con Scratch.
 
 
 
@@ -135,26 +135,3 @@ La experiencia ha resultado muy positiva y en el futuro inmediato se trabajará 
 - Mecanismo de elaboración de preguntas, por parte del alumnado, tipo test, con la consiguiente fijación y asimilación de contenidos.
 - Pre evaluación diagnóstica del grado de adquisición de los contenidos propios de cada uno de los temas o proyectos de trabajo con los que se desarrolla la programación docente.
 - Mecanismo de participación democrática en calidad de voto individual y parcialmente secreto, para la toma de decisiones grupales.
-
-
-
-<br />
-
-
-
-## Materiales
-
-- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
-
-
-
-<br />
-
-
-
-## Enlaces de interés
-
-- <a href="https://www.programoergosum.es/blog/pensamiento-computacional-con-scratch/">Pensamiento computacional con Scratch</a>
-- <a href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">Aprender a programar sin ordenador</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">Tutoriales de programación con Scratch</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">Tutoriales de Robótica Educativa</a>

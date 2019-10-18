@@ -41,7 +41,7 @@ La aplicación de los lenguajes de programación por bloques permite una present
 
 Un buen comienzo en el aprendizaje de la programación es la plataforma Code.org. En ella se aprenden los conceptos de la programación a través de su asistente guiado paso a paso.
 
-Los ejercicios a realizar en el <a target="_blank" href="https://studio.code.org/s/20-hour">curso acelerado</a> pueden ser los siguientes:
+Los ejercicios a realizar en el [curso acelerado](https://studio.code.org/s/20-hour) pueden ser los siguientes:
 
 - Etapa 2: 1, 2, 3, 6, 8, 9, 12, 14, 17, 18, 20
 - Etapa 9: 1, 2, 3, 4, 5, 6, 9, 10, 11
@@ -65,7 +65,7 @@ Para crear una cuenta como educador o profesor, seguiremos los siguiente pasos:
 
 Una vez adquiridos los conocimientos necesarios sobre el lenguaje de bloques, se puede realizar un videojuego sencillo con Scratch para explicar las diferentes partes de la herramienta; escenario, bloques de programación, editor de programación, etc.
 
-> Accede a nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">tutoriales</a> para aprender a programar con Scratch.
+> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch) para aprender a programar con Scratch.
 
 Aparentemente el videojuego parece muy sencillo pero no lo es tanto, ya que antes de "arrastrar" cada bloques, se pedía explicar porqué se arrastra ese bloque y no otro. Además, se han realizado varias programaciones diferentes para realizar el mismo videojuego.
 
@@ -73,7 +73,7 @@ El ejemplo más claro de las distintas programaciones se ve en el desplazamiento
 
 También tenemos el ejemplo de clones en Scratch y cómo utilizarlos. Es el caso de las pelotas que aparecen con ángulos aleatorios cada 10 segundos y desaparecen cada 20 segundos, y solamente tenemos un objeto pelota, con diferentes disfraces.
 
-Con Scratch se puede explicar el paradigma de la <a href="https://www.programoergosum.es/blog/programacion-orientada-a-objetos-con-scratch/">programación orientada a objetos</a> programando un videojuego muy sencillo.
+Con Scratch se puede explicar el paradigma de la [programación orientada a objetos](https://www.programoergosum.es/blog/programacion-orientada-a-objetos-con-scratch/) programando un videojuego muy sencillo.
 
 ### Plataforma Aprende Programando
 
@@ -81,7 +81,7 @@ Aprende Programando es un proyecto educativo destinado a cualquier persona que q
 
 Con el proyecto se pretende utilizar la programación de forma transversal hacia las STEM (Science, Technology, Engineering y Mathematics).
 
-> Para el aprendizaje de las STEM a través de la programación puedes utilizar la plataforma <a target="_blank" href="https://www.aprendeprogramando.es">Aprende Programando</a>.
+> Para el aprendizaje de las STEM a través de la programación puedes utilizar la plataforma [Aprende Programando](https://www.aprendeprogramando.es).
 
 
 
@@ -99,7 +99,7 @@ Una vez adquirido el robot mBot lo primero que tienes que hacer es montarlo sigu
 
 A continuación puedes realizar diferentes actividades para interactuar con los diferentes sensores y actuadores del robot.
 
-> Accede a nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa">tutoriales</a> para aprender a programar el robot mBot.
+> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/robotica-educativa) para aprender a programar el robot mBot.
 
 
 
@@ -135,4 +135,4 @@ Para programar una tarjeta de Arduino, podemos utilizar diferentes lenguajes y e
 
 El Cable Amarillo es un proyecto educativo de código abierto para fomentar el uso de la programación y robótica en los centros educativos utilizando herramientas de software y hardware libre.
 
-> Accede a las <a target="_blank" href="https://www.elcableamarillo.cc">prácticas</a> desde la web de El cable Amarillo.
+> Accede a las [prácticas](https://www.elcableamarillo.cc) desde la web de El cable Amarillo.

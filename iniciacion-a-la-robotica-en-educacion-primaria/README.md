@@ -36,7 +36,7 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 Son numerosas las páginas, programas o robots pensados para el desarrollo del pensamiento computacional desde edades tempranas. Sin embargo, también podemos encontrar actividades para aprender a programar sin necesidad de utilizar un ordenador o dispositivo informático, lo que se conoce como *programación desenchufada o desconectada*.
 
-> Accede al artículo donde explicamos algunas actividades para <a target="_blank" href="https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/">aprender a programar sin ordenador</a>.
+> Accede al artículo donde explicamos algunas actividades para [aprender a programar sin ordenador](https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/).
 
 Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes actividades relacionadas con el aprendizaje de la programación, utilizando material comúnmente encontrado en las aulas de educación infantil y primaria.
 
@@ -60,7 +60,7 @@ Además, con un poco de imaginación se pueden crear diferentes juegos educativo
 
 Aunque el robot educativo de suelo más conocido suele ser la famosa abeja *Beebot*, podemos encontrar otros robots de características muy similares para utilizar en el aula con nuestros alumnos, como es el caso de *Next*, *Mouse* o el proyecto *Escornabot*, entre muchos otros.
 
-> Accede al artículo donde realizamos una comparativa sobre los diferentes <a target="_blank" href="https://www.programoergosum.es/blog/robots-educativos-de-suelo/">robots educativos de suelo</a>.
+> Accede al artículo donde realizamos una comparativa sobre los diferentes [robots educativos de suelo](https://www.programoergosum.es/blog/robots-educativos-de-suelo/).
 
 Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes robots educativos para que sean los propios docentes los que las tomen conclusiones de primera mano.
 
@@ -70,7 +70,7 @@ En nuestro caso, el robot de suelo que más nos gusta y sobre todo recomendamos,
 
 Como prodrás observar, este robot no suele encontrarse en tiendas ya que el objetivo del proyecto es que seas tú mismo el que lo construye y lo monta comprando los materiales de electrónica e imprimiendo los modelos de las piezas con una impresora 3D.
 
-En este curso los docentes aprenden las partes principales del robot Escornabot en su versión <a target="_blank" href="https://www.thingiverse.com/thing:3269696">2.12 Xdesig</a> al mismo tiempo que lo montan.
+En este curso los docentes aprenden las partes principales del robot Escornabot en su versión [2.12 Xdesig](https://www.thingiverse.com/thing:3269696) al mismo tiempo que lo montan.
 
 ![](img/escornabot.jpg "Robot de suelo Escornabot")
 
@@ -88,7 +88,7 @@ Lo mejor de esta plataforma es que se puede empezar a programar sin tener ningú
 
 ![](img/codeorg.jpg "La Hora del Código")
 
-> Puedes acceder a todos los proyectos desde la web de <a target="_blank" href="https://hourofcode.com/es">https://hourofcode.com/</a>.
+> Puedes acceder a todos los proyectos desde la web de [https://hourofcode.com/](https://hourofcode.com/es).
 
 Dentro de la Hora del Código se pueden encontrar numerosos proyectos educativos con el mismo objetivo de acercar la programación desde edades tempranas y para todos los niveles.
 
@@ -108,9 +108,9 @@ Aunque parezca cosa solo de ingenieros, son muchos los tipos de impresoras que p
 
 ![](img/xyz-printing.jpg "Impresora 3D Da Vinci mini")
 
-Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con programas preparados para utilizarse con jóvenes, como es el caso de <a target="_blank" href="https://www.tinkercad.com/">TinkerCAD</a>.
+Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con programas preparados para utilizarse con jóvenes, como es el caso de [TinkerCAD](https://www.tinkercad.com/).
 
-> Puedes acceder al <a target="_blank" href="https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion">tutorial</a> de iniciación a Tinkercad de esta misma plataforma.
+> Puedes acceder al [tutorial](https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion) de iniciación a Tinkercad de esta misma plataforma.
 
 
 ![](img/tinkercad.jpg "Llaveros en TinkerCAD")
@@ -131,7 +131,7 @@ Estos lenguajes de programación se utiliza con fines didácticos para crear ani
 
 ![](img/5.jpg "Videojuegos programados con Scratch")
 
-> Accede a nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">tutoriales</a> para aprender a programar con Scratch.
+> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch) para aprender a programar con Scratch.
 
 
 
@@ -147,15 +147,4 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 
 ![](img/6.jpg "Echidna Shield")
 
-> Accede a nuestro <a target="_blank" href="https://www.programoergosum.com/cursos-online/robotica-educativa/604-robotica-educativa-con-echidna-shield/introduccion">tutorial</a> de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
-
-
-<!--
-<br />
-
-
-
-## Materiales
-
-- <a target="_blank" href="">Diapositivas del curso</a>
--->
+> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/robotica-educativa/604-robotica-educativa-con-echidna-shield/introduccion) de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
