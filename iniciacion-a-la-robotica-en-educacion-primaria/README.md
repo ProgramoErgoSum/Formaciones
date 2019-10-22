@@ -80,6 +80,20 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 
 
+## La Hora del Código
+
+La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Es una de las iniciativas preferidas por muchos de los docentes interesados en introducir la programación en el aula ya que disponene de numerosos materiales con asistentes interactivos para un aprendizaje guiado.
+
+Podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos. Como se puede observr en la siguiente imagen, en cada una de las actividades aparece el nombre del proyecto, una pequeña descripción, las características técnicas y la edad recomendada de la actividad.
+
+![](img/actividades.jpg "La Hora del Código")
+
+
+
+<br />
+
+
+
 ## Plataforma Code.org
 
 [Code.org](https://code.org/) es la plataforma perfecta para aprender la lógica de la programación a través de los lenguajes de programación por bloques. Con sus asistente guiado no es necesario tener conocimientos con lo que se puede utilizar en el aula desde educación infantil.
@@ -93,46 +107,6 @@ Para los docentes, se incluye un apartado acompañado de una documentación muy 
 ![](img/profesores.jpg "Sección profesores")
 
 Durante esta sesión del curso, destinada a la **introducción a los lenguajes de programación**, probamos diferentes cursos y lecciones de la plataforma para aprender a programar con el lenguaje de programación por bloques.
-
-<!--
-Los ejercicios a realizar dependiendo el alumnado pueden ser los siguientes:
-
-- [Curso 1](https://studio.code.org/s/course1): 4 a 6 años
-  - Etapa 3: Rompecabezas
-  - Etapa 4: Secuencias
-  - Etapa 13: Bucles
-  - Etapa 14: Bucles avanzados
-- [Curso 2](https://studio.code.org/s/course2): 6 a 8 años
-  - Etapa 3: Secuencias
-  - Etapa 6: Bucles
-  - Etapa 8: Bucles avanzados
-  - Etapa 13: Condicionales
-- [Curso 3](https://studio.code.org/s/course3): a partir de 10 años
-  - Etapa 3: Laberinto
-  - Etapa 7: Condicionales
-  - Etapa 8: Condicionales avanzadas
-  - Etapa 12: Bucle mientras
-  - Etapa 13: Bucles anidados
-- [Curso 4](https://studio.code.org/s/course4): a partir de 12 años
-  - Etapa 9: Bucles for
-  - Etapa 16: Funciones
-  - Etapa 20: Avanzados
-  - Etapa 21: Muy avanzados
-  - Etapa 22: Súper avanzados
--->
-
-
-<br />
-
-
-
-## La Hora del Código
-
-La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Es una de las iniciativas preferidas por muchos de los docentes interesados en introducir la programación en el aula ya que disponene de numerosos materiales con asistentes interactivos para un aprendizaje guiado.
-
-Podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos. Como se puede observr en la siguiente imagen, en cada una de las actividades aparece el nombre del proyecto, una pequeña descripción, las características técnicas y la edad recomendada de la actividad.
-
-![](img/actividades.jpg "La Hora del Código")
 
 
 
