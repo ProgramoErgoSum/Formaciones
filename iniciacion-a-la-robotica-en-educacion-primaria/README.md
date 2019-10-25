@@ -66,9 +66,13 @@ Durante esta sesión del curso, destinada a la **introducción al pensamiento co
 
 ![](img/beebot.jpg "Juego de la escalera")
 
-En nuestro caso, el robot de suelo que más nos gusta y sobre todo recomendamos, es el *Escornabot*. Lo que lo hace especial es la filosofía de proyecto de código y hardware abierto que sigue, además de la ámplia comunidad educativa que puedes encontrar en sus redes sociales.
+> Para más información puedes acceder a nuestro tutorial de [Introducción a la robótica educativa con Bee-Bot](https://www.programoergosum.es/tutoriales/robotica-educativa-con-beebot).
+
+El robot de suelo que solemos recomendar es *Escornabot*. Lo que lo hace especial es la filosofía de proyecto de código y hardware abierto que sigue, además de la ámplia comunidad educativa que puedes encontrar en sus redes sociales.
 
 Como prodrás observar, este robot no suele encontrarse en tiendas ya que el objetivo del proyecto es que seas tú mismo el que lo construye y lo monta comprando los materiales de electrónica e imprimiendo los modelos de las piezas con una impresora 3D.
+
+> Para más información puedes acceder a nuestro tutorial de [Introducción a la robótica educativa con Escornabot](https://www.programoergosum.es/tutoriales/robotica-educativa-con-escornabot).
 
 En este curso los docentes aprenden las partes principales del robot Escornabot en su versión [2.12 Xdesig](https://www.thingiverse.com/thing:3269696) al mismo tiempo que lo montan.
 
@@ -126,7 +130,7 @@ Aunque parezca cosa solo de ingenieros, son muchos los tipos de impresoras que p
 
 Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con programas preparados para utilizarse con jóvenes, como es el caso de [TinkerCAD](https://www.tinkercad.com/).
 
-> Puedes acceder al [tutorial](https://www.programoergosum.com/cursos-online/impresion-3d/902-introduccion-a-tinkercad/introduccion) de iniciación a Tinkercad de esta misma plataforma.
+> Puedes acceder a nuestro tutorial donde explicamos cómo crear un [Llavero personalizado en TinkerCAD](https://www.programoergosum.es/tutoriales/llavero-personalizado-en-tinkercad).
 
 
 ![](img/tinkercad.jpg "Llaveros en TinkerCAD")
