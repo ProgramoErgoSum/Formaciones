@@ -157,20 +157,6 @@ Aunque Scratch parece una herramienta destinada solamente a niños, podemos aseg
 
 
 
-<br />
-
-
-
-## Materiales
-
-- Diapositivas del curso presencial `1ª Sesión`
-- Diapositivas del curso presencial `2ª Sesión`
-- Diapositivas del curso presencial `3ª Sesión`
-- Diapositivas del curso presencial `4ª Sesión`
-- Diapositivas del curso presencial `5ª Sesión`
-- Diapositivas del curso presencial `6ª Sesión`
-- Diapositivas del curso presencial `7ª Sesión`
-
 <!--
 ## Echidna Shield
 
