@@ -118,22 +118,20 @@ Durante esta sesión del curso, destinada a la **introducción a los lenguajes d
 
 
 
-## Movimiento maker e Impresión 3D
+## Maker e Impresión 3D
 
 La impresión 3D está empezando a utilizarse en los centros educativos. Es así porque profesores se han dado cuenta del valor de la impresora 3D como una herramienta para enseñar a la próxima generación de inventores.
 
 Aunque parezca cosa solo de ingenieros, son muchos los tipos de impresoras que podemos encontrar para iniciarse en este maravilloso mundo del movimiento maker en educación. Una de las más conocidas en el ámbito educativo es la impresora *Da Vinci* por su sencillez en el uso así como por su precio. Aunque hay quienes prefieren hacerse con una impresora más profesional y potente para sacarle el máximo partido.
 
-> Antes de comprar una impresora es buena idea hacer una comparativa en lo que se necesita.
-
-![](img/xyz-printing.jpg "Impresora 3D Da Vinci mini")
+![](img/impresora-3d-imprimiendo.gif "Impresora 3D Imprimiendo")
 
 Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con programas preparados para utilizarse con jóvenes, como es el caso de [TinkerCAD](https://www.tinkercad.com/).
 
 > Puedes acceder a nuestro tutorial donde explicamos cómo crear un [Llavero personalizado en TinkerCAD](https://www.programoergosum.es/tutoriales/llavero-personalizado-en-tinkercad).
 
 
-![](img/tinkercad.jpg "Llaveros en TinkerCAD")
+![](img/llaveros-en-tinkercad.jpg "Llaveros en TinkerCAD")
 
 El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
 
@@ -143,15 +141,19 @@ El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es 
 
 
 
-## Programación con bloques
+## Programación con Scratch
 
 Un lenguaje de programación por bloques tiene como característica principal centrarse en el desarrollo de habilidades mentales mediante el aprendizaje de la programación, sin tener conocimientos sobre el código escrito. Sus características están ligadas al fácil entendimiento del pensamiento lógico y computacional han hecho que sea muy difundido en la educación desde edades iniciales.
 
 Estos lenguajes de programación se utiliza con fines didácticos para crear animaciones de forma sencilla y servir como introducción al contenido de programación más avanzado. Entre los principales lenguajes de programación por bloques tenemos a Scratch, Blockly o Snap.
 
-![](img/5.jpg "Videojuegos programados con Scratch")
+> Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/scratch/) para aprender a programar con Scratch.
 
-> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch) para aprender a programar con Scratch.
+![](img/scratch-persigue.gif "Videojuego de Persigue con Scratch 2.0")
+
+Aunque Scratch parece una herramienta destinada solamente a niños, podemos asegurar que es una herramienta muy poderosa ya que se pueden explicar conceptos del paradigma de la [programación orientada a objetos con Scratch](https://www.programoergosum.es/tutoriales/programacion-orientada-a-objetos-con-scratch/) y entenderlo de forma sencilla como explicamos en el tutorial.
+
+![](img/scratch-poo.jpg "Programación Orientada a Objetos con Scratch")
 
 
 
@@ -159,6 +161,17 @@ Estos lenguajes de programación se utiliza con fines didácticos para crear ani
 
 
 
+## Materiales
+
+- Diapositivas del curso presencial `1ª Sesión`
+- Diapositivas del curso presencial `2ª Sesión`
+- Diapositivas del curso presencial `3ª Sesión`
+- Diapositivas del curso presencial `4ª Sesión`
+- Diapositivas del curso presencial `5ª Sesión`
+- Diapositivas del curso presencial `6ª Sesión`
+- Diapositivas del curso presencial `7ª Sesión`
+
+<!--
 ## Echidna Shield
 
 Echidna Shield es un escudo para Arduino UNO de código abierto dirigido a facilitar el aprendizaje de la programación, electrónica y robótica en los últimos cursos de educación primaria y secundaria.
@@ -167,4 +180,5 @@ Dispone de varios sensores integrados por lo cual no necesitaremos disponer de c
 
 ![](img/6.jpg "Echidna Shield")
 
-> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/robotica-educativa/604-robotica-educativa-con-echidna-shield/introduccion) de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
+> Accede a nuestro [tutorial](https://www.programoergosum.es/tutoriales/robotica-educativa-con-echidna/) de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
+-->
