@@ -135,6 +135,13 @@ Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con prog
 
 El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
 
+### Llaveros realizados por docentes
+
+- [CPR Juan Carlos I, Murcia](https://www.tinkercad.com/things/jq4ezQKv5Mb)
+- [CEIP San José, Lorca (Murcia)](https://www.tinkercad.com/things/5P19rT1mWZA)
+- CEIP Martínez Ardieta, Roldan (Murcia)
+- CEIP Hnos. S. Isidoro y Sta. Florentina, Cartagena (Murcia)
+- CEIP Ciudad del Mar, Águilas (Murcia)
 
 
 <br />
