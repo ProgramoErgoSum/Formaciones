@@ -139,9 +139,9 @@ El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es 
 
 - [CPR Juan Carlos I, Murcia](https://www.tinkercad.com/things/jq4ezQKv5Mb)
 - [CEIP San José, Lorca (Murcia)](https://www.tinkercad.com/things/5P19rT1mWZA)
-- CEIP Martínez Ardieta, Roldan (Murcia)
-- CEIP Hnos. S. Isidoro y Sta. Florentina, Cartagena (Murcia)
-- CEIP Ciudad del Mar, Águilas (Murcia)
+- [CEIP Martínez Ardieta, Roldan (Murcia)](https://www.tinkercad.com/things/kCaF4KgfTsk)
+- [CEIP Hnos. S. Isidoro y Sta. Florentina, Cartagena (Murcia)](https://www.tinkercad.com/things/bhNu9jX7pov)
+- [CEIP Ciudad del Mar, Águilas (Murcia)](https://www.tinkercad.com/things/6ZXgi2K4nqA)
 
 
 <br />
@@ -161,6 +161,22 @@ Estos lenguajes de programación se utiliza con fines didácticos para crear ani
 Aunque Scratch parece una herramienta destinada solamente a niños, podemos asegurar que es una herramienta muy poderosa ya que se pueden explicar conceptos del paradigma de la [programación orientada a objetos con Scratch](https://www.programoergosum.es/tutoriales/programacion-orientada-a-objetos-con-scratch/) y entenderlo de forma sencilla como explicamos en el tutorial.
 
 ![](img/scratch-poo.jpg "Programación Orientada a Objetos con Scratch")
+
+
+
+<br />
+
+
+
+## Robótica con Makey-Makey
+
+[Makey-Makey](https://makeymakey.com/) es una placa similar al mando de una videoconsola que simula ser un teclado o ratón, lo que permite enviar órdenes al ordenador al que se encuentre conectado.
+
+Durante esta sesión del curso, destinada a la robótica educativa en educación infantil, probamos diferentes aplicaciones y herramientas utilizando la placa Makey-Makey para que sean los propios docentes los que las tomen conclusiones de primera mano.
+
+![](img/piano-makey-makey.jpg "Piano con Makey-Makey")
+
+> Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/makey-makey/) de robótica educativa utilizando la placa Makey-Makey.
 
 
 
