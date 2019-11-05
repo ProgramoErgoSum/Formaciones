@@ -172,22 +172,17 @@ Aunque Scratch parece una herramienta destinada solamente a niños, podemos aseg
 
 [Makey-Makey](https://makeymakey.com/) es una placa similar al mando de una videoconsola que simula ser un teclado o ratón, lo que permite enviar órdenes al ordenador al que se encuentre conectado.
 
-Durante esta sesión del curso, destinada a la robótica educativa en educación infantil, probamos diferentes aplicaciones y herramientas utilizando la placa Makey-Makey para que sean los propios docentes los que las tomen conclusiones de primera mano.
+Durante esta sesión del curso, destinada a la robótica educativa en educación infantil, probamos diferentes aplicaciones y usos de la Makey-Makey en el aula. Se puso en práctica la conductividad de los diferentes materiales que encontramos en el aula como medio de aprendizaje.
 
 ![](img/piano-makey-makey.jpg "Piano con Makey-Makey")
 
 > Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/makey-makey/) de robótica educativa utilizando la placa Makey-Makey.
 
 
-
 <!--
-## Echidna Shield
+<br />
 
-Echidna Shield es un escudo para Arduino UNO de código abierto dirigido a facilitar el aprendizaje de la programación, electrónica y robótica en los últimos cursos de educación primaria y secundaria.
 
-Dispone de varios sensores integrados por lo cual no necesitaremos disponer de conocimientos en electrónica. Puede actuar en dos modos, un modo de sensores, donde podrás utilizar los sensores de la placa, y un modo Makey-Makey.
 
-![](img/6.jpg "Echidna Shield")
-
-> Accede a nuestro [tutorial](https://www.programoergosum.es/tutoriales/robotica-educativa-con-echidna/) de primeros pasos con Echidna Shield para configurarla utilizando mBlock o Snap4Arduino.
+## Electricidad en primaria
 -->
