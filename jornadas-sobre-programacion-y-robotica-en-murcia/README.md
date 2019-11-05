@@ -26,7 +26,7 @@ Esta aplicación educativa tiene como finalidad medir el volumen de los alumnos 
 
 ![](img/volumen.gif "Medidor de volumen programado con Scratch")
 
-> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/realidad-aumentada/225-realidad-aumentada-y-control-de-volumen-con-scratch/introduccion) de control de volumen con scratch y realidad aumentada.
+> Accede a nuestro [tutorial](https://www.programoergosum.es/tutoriales/control-de-volumen-con-scratch-2) de control de volumen con scratch y realidad aumentada.
 
 
 
@@ -42,7 +42,7 @@ En este caso se reproduce una gráfica a medida que aumenta o disminuye el volum
 
 ![](img/grafica.gif "Gráfica del sonido programado con Scratch")
 
-> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/realidad-aumentada/227-graficas-de-audio-con-realidad-aumentada-y-scratch/introduccion) de gráficas del sonido con scratch y realidad aumentada.
+> Accede a nuestro [tutorial](https://www.programoergosum.es/tutoriales/graficas-de-audio-con-scratch-2) de gráficas del sonido con scratch y realidad aumentada.
 
 
 
@@ -56,7 +56,7 @@ Esta aplicación educativa tiene como finalidad realizar un pequeño videojuego 
 
 ![](img/pokemon.gif "Comida saludable programado con Scratch")
 
-> Accede al [tutorial](https://www.programoergosum.com/cursos-online/realidad-aumentada/167-pokemon-go-programado-con-scratch-y-realidad-aumentada/introduccion) de pokemon con scratch y realidad aumentada de esta misma plataforma.
+> Accede al [tutorial](https://www.programoergosum.es/tutoriales/pokemon-go-con-scratch-2) de pokemon con scratch y realidad aumentada de esta misma plataforma.
 
 
 
@@ -70,7 +70,7 @@ Esta aplicación educativa tiene como finalidad simular el efecto de nieve sobre
 
 ![](img/nieve.gif "Efecto nieve programado con Scratch")
 
-> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/realidad-aumentada/150-efecto-nieve-utilizando-realidad-aumentada-y-scratch/introduccion) de efecto nieve con scratch y realidad aumentada.
+> Accede a nuestro [tutorial](https://www.programoergosum.es/tutoriales/efecto-nieve-con-scratch-2) de efecto nieve con scratch y realidad aumentada.
 
 
 
@@ -84,4 +84,4 @@ Esta aplicación tiene como finalidad adentrarse en el mundo del Internet de las
 
 ![](img/iot.gif "Internet de las cosas con Raspberry Pi")
 
-> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/raspberry-pi) de programación sobre Raspberry Pi.
+> Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/raspberry-pi) de programación sobre Raspberry Pi.

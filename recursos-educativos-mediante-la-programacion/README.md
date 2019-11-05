@@ -89,7 +89,7 @@ Scratch está disponible en su versión online y su versión offline, siendo est
 
 ![](img/scratch.jpg "Scratch online vs. offline")
 
-> Puedes acceder a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch) de programación con Scratch.
+> Puedes acceder a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/scratch) de programación con Scratch.
 
 
 

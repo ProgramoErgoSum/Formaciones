@@ -65,7 +65,7 @@ Para crear una cuenta como educador o profesor, seguiremos los siguiente pasos:
 
 Una vez adquiridos los conocimientos necesarios sobre el lenguaje de bloques, se puede realizar un videojuego sencillo con Scratch para explicar las diferentes partes de la herramienta; escenario, bloques de programación, editor de programación, etc.
 
-> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch) para aprender a programar con Scratch.
+> Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/scratch) para aprender a programar con Scratch.
 
 Aparentemente el videojuego parece muy sencillo pero no lo es tanto, ya que antes de "arrastrar" cada bloques, se pedía explicar porqué se arrastra ese bloque y no otro. Además, se han realizado varias programaciones diferentes para realizar el mismo videojuego.
 
@@ -99,7 +99,7 @@ Una vez adquirido el robot mBot lo primero que tienes que hacer es montarlo sigu
 
 A continuación puedes realizar diferentes actividades para interactuar con los diferentes sensores y actuadores del robot.
 
-> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/robotica-educativa) para aprender a programar el robot mBot.
+> Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/robotica-educativa) para aprender a programar el robot mBot.
 
 
 

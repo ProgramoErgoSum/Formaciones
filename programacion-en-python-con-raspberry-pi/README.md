@@ -44,7 +44,7 @@ Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la en
 
 El sistema operativo elegido y recomendado es Raspbian al estar optimizado para el procesador ARM (frente a los procesadores x86 que podemos encontrar en los PC de un aula convencional). Para más información sobre la arquitectura del procesador y modos de instalación accede al curso de instalación de Raspbian en Raspberry Pi de esta misma plataforma donde lo explicamos a través de videotutoriales.
 
-> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/raspberry-pi) de Raspberry Pi.
+> Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/raspberry-pi) de Raspberry Pi.
 
 
 
