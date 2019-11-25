@@ -1,6 +1,6 @@
 ## Introducción
 
-El curso surge por la necesidad de aplicar nuevas metodologías en la integración de niños y niñas con diversidad funcional. Utilizando la robótica educativa y la gamificación podemos desarrollar diferentes tipos de habilidades, como la habilidad visual, musical, corporal, lógica o verbal entre otras.
+El curso surge ante la necesidad de aplicar nuevas metodologías para la integración e inclusión de niños y niñas con diferente diversidad funcional utilizando la programación y la robótica educativa.
 
 ![](img/preview.jpg "Centro de Profesores y Recursos, Región de Murcia")
 
@@ -26,10 +26,11 @@ Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las sigu
 
 ### Objetivos del curso
 
-1. Conocer diferentes entornos de programación y robótica destinados a la integración de alumnos con necesidades educativas especiales.
-2. Desarrollo de materiales didácticos para introducir la electrónica desde edades tempranas.
-3. Utilizar técnicas de gamificación en el aula, para mejorar el proceso de enseñanza-aprendizaje y motivación del alumno.
-4. Conocer las posibilidades que ofrece la realidad aumentada para su aplicación en el aula.
+1. Conocer diferentes entornos de robótica educativa destinados a la inclusión en el aula.
+2. Aprender a programar juegos educativos para ayudar a nuestros alumnos con necesidades educativas especiales.
+3. Desarrollar materiales didácticos para introducir la electrónica desde edades tempranas.
+4. Utilizar técnicas de gamificación para mejorar el proceso de enseñanza-aprendizaje y motivación del alumno.
+5. Conocer las posibilidades que ofrece la realidad aumentada para su aplicación en el aula.
 
 
 
