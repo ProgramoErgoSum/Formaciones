@@ -145,7 +145,7 @@ Todos los alumnos desde infantil a sexto han ido pasando por el huerto y cuando 
 
 La realidad aumentada en educación es un proceso que permite observar elementos físicos de la realidad a través de dispositivos y software específico, aplicando la tecnología como recurso de enseñanza y aprendizaje.
 
-![](img/audio.jpg "Realidad aumentada con Scratch")
+![](img/audio.gif "Realidad aumentada con Scratch")
 
 Durante esta sesión del curso probamos diferentes aplicaciones en el aula para que sean los propios docentes los que saquen conclusiones por ellos mismos.
 
