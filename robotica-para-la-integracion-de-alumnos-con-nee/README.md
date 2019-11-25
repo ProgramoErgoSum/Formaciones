@@ -43,6 +43,8 @@ Aunque el robot de suelo más conocido es la famosa abeja *Beebot*, a día de ho
 
 > Para más información puedes acceder a nuestro tutorial de [Introducción a la robótica educativa con Bee-Bot](https://www.programoergosum.es/tutoriales/robotica-educativa-con-beebot).
 
+![](img/beebot.jpg "Bee-Bot en el aula")
+
 Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes robots educativos para que sean los propios docentes los que las tomen conclusiones de primera mano.
 
 ### Conclusiones de Nieves y Celia
@@ -79,7 +81,7 @@ Además de BeeBot, Ana, maestra del [CEIP Isabel Bellvis de Corvera (Murcia)](ht
 
 La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Por otro lado contamos con la plataforma educativa [Code.org](https://code.org/), considerada la plataforma perfecta para aprender la lógica de la programación a través de los lenguajes de programación por bloques por varios maestros y maestras. Con sus asistente guiado no es necesario tener conocimientos con lo que se puede utilizar en el aula desde educación infantil.
 
-![](img/actividades.jpg "La Hora del Código")
+![](img/codeorg.jpg "La Hora del Código")
 
 Estas plataformas de programación se utiliza con fines didácticos para crear animaciones de forma sencilla y servir como introducción al contenido de programación más avanzado. Entre los principales lenguajes de programación por bloques tenemos a Scratch.
 
@@ -117,17 +119,19 @@ Fuensanta, maestra de primaria, realiza el proyecto de pasapalabra con Scratch d
 
 [Makey-Makey](https://makeymakey.com/) es una placa similar al mando de una videoconsola que simula ser un teclado normal o ratón, lo que permite enviar ordenes al ordenador al que se encuentre conectado. En vez de pulsar los botones lo que hacemos es cerrar el circuito mediante contactos o pinzas de cocodrilo y de esta forma simula el haber pulsado el botón.
 
+![](img/makey.jpg "Makey-Makey en el aula")
+
 Durante esta sesión del curso probamos diferentes aplicaciones y usos de la Makey-Makey en el aula. Se puso en práctica la conductividad de los diferentes materiales que encontramos en el aula como medio de aprendizaje.
 
 ### Conclusiones de Alfonso y Francisco
 
 Este proyecto utilizando Makey-Makey con Scratch ha sido realizado por Alfonso y Francisco, maestros del [CEIP Divino Maestro de Las Torres de Cotillas (Murcia)](https://www.murciaeduca.es/cepdivinomaestrolastorresdecotillas/sitio/). Para ello repartieron las acciones entre los diferentes cursos de primaria de la siguiente forma:
 
-- Tercero de primaria ha realizado los dibujos de los diferentes árboles del huerto: limonero, naranjo, ciruelo, peral. Cuarto ha realizado adivinanzas y definiciones de los diferentes árboles.
+Tercero de primaria ha realizado los dibujos de los diferentes árboles del huerto: limonero, naranjo, ciruelo, peral. Cuarto ha realizado adivinanzas y definiciones de los diferentes árboles.
 
-- Quinto y sexto ha realizado un scratch para cada ciclo de primaria e infantil. Han recopilado información de cada árbol y la han adaptado a cada ciclo. Han realizado un documento con la información. Han hecho la grabación atendiendo a la edad. Han confeccionado el programa con Scratch. 
+Quinto y sexto ha realizado un scratch para cada ciclo de primaria e infantil. Han recopilado información de cada árbol y la han adaptado a cada ciclo. Han realizado un documento con la información. Han hecho la grabación atendiendo a la edad. Han confeccionado el programa con Scratch. 
 
-- Todos los alumnos desde infantil a sexto han ido pasando por el huerto y cuando tocaban el cartel con la definición o el dibujo del árbol sonaba la voz en off que habían grabado los alumnos de 5º y 6º.
+Todos los alumnos desde infantil a sexto han ido pasando por el huerto y cuando tocaban el cartel con la definición o el dibujo del árbol sonaba la voz en off que habían grabado los alumnos de 5º y 6º.
 
 ![](img/proyecto-alfonso-y-francisco.jpg "Conclusiones de Alfonso y Francisco")
 
@@ -140,6 +144,8 @@ Este proyecto utilizando Makey-Makey con Scratch ha sido realizado por Alfonso y
 ## Realidad aumentada
 
 La realidad aumentada en educación es un proceso que permite observar elementos físicos de la realidad a través de dispositivos y software específico, aplicando la tecnología como recurso de enseñanza y aprendizaje.
+
+![](img/audio.jpg "Realidad aumentada con Scratch")
 
 Durante esta sesión del curso probamos diferentes aplicaciones en el aula para que sean los propios docentes los que saquen conclusiones por ellos mismos.
 
