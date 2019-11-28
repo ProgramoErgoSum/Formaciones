@@ -183,12 +183,3 @@ Durante esta sesión del curso, destinada a la robótica educativa en educación
 Por otro lado, siguiendo el tutorial de fabricación de [plastilina conductora casera](https://www.programoergosum.es/tutoriales/manualidades-con-makey-makey/), se sacaron ideas de uso en el aula de infantil y primaria utilizando la placa Makey-Makey y programando un sencillo programa con sCratch para que los alumnos más pequeños aprendan las vocales de una forma divertida.
 
 ![](img/plastilina-conductora.gif "Plastilina conductora casera")
-
-
-<!--
-<br />
-
-
-
-## Electricidad en primaria
--->
