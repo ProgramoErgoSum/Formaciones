@@ -143,6 +143,7 @@ El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es 
 - [CEIP Hnos. S. Isidoro y Sta. Florentina, Cartagena (Murcia)](https://www.tinkercad.com/things/bhNu9jX7pov)
 - [CEIP Ciudad del Mar, Águilas (Murcia)](https://www.tinkercad.com/things/6ZXgi2K4nqA)
 - [CEIP Purísima Concepción, Esparragal de Puerto Lumbreras (Murcia)](https://www.tinkercad.com/things/jlT7RIKroAw)
+- [CEIP Los Molinos, Calasparra (Murcia)](https://www.tinkercad.com/things/52vKYYGMUDc)
 
 
 
