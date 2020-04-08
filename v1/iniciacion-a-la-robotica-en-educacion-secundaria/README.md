@@ -1,33 +1,6 @@
 ## Introducción
 
-El siguiente curso presencial surge por la necesidad de dotar de recursos pedagógicos para la programación y el uso de robots en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los jóvenes por la tecnología.
-
-![](img/preview.jpg "Iniciación a la Robótica en Educación Secundaria")
-
-### Objetivos del curso
-
-1. Analizar los entornos y lenguajes de programación por bloques.
-2. Conocer mecanismos y técnicas de montaje de dispositivos electrónicos.
-3. Explorar algunas posibilidades medioambientales, sensores y actuadores.
-4. Estudiar equipos automáticos con Arduino.
-5. Elaborar un proyecto educativo mediante la programación y electrónica con Arduino
-
-
-
-<!--
-<br />
-
-
-
-## Diapositivas del curso
-
-A continuación aparecen las diapositivas utilizadas en el curso. Puedes hacer clic en la diapositiva y desplazarte sobre ellas utilizando las flechas del teclado.
-
-<div class="iframe">
-  <iframe src="https://wikitic.github.io/iniciacion-a-la-robotica-en-educacion-secundaria" allowfullscreen></iframe>
-</div>
--->
-
+Este curso presencial surge ante la necesidad de dotar a los docentes sobre recursos pedagógicos para el uso de la programación y robótica en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
 
 
 <br />
@@ -93,7 +66,7 @@ Con el proyecto se pretende utilizar la programación de forma transversal hacia
 
 El robot educativo mBot ha sido desarrolado para iniciarse en la programación y robótica desde educación primaria. Está basado en Arduino Uno considerándose sencillo de utilizar ya que no necesita cableado ni soldaduras gracias a sus conectores RJ25 (típicas conexiones de teléfono).
 
-![](img/2.jpg "Robótica educativa con mBot")
+<!--![](img/2.jpg "Robótica educativa con mBot")-->
 
 Una vez adquirido el robot mBot lo primero que tienes que hacer es montarlo siguiendo las instrucciones del fabricante. Estos pasos son muy sencillos. 
 
@@ -124,15 +97,3 @@ Arduino dispone de un regulador de voltaje interno que actúa para que la tensi�
 Para programar una tarjeta de Arduino, podemos utilizar diferentes lenguajes y entornos de programación. En este caso vamos a introducir la programación y electrónica con Arduino utilizando los lenguajes de programación por bloques y lenguajes de programación en modo texto.
 
 ![](img/software-arduino.jpg "Software de Arduino")
-
-
-
-<br />
-
-
-
-## El Cable Amarillo
-
-El Cable Amarillo es un proyecto educativo de código abierto para fomentar el uso de la programación y robótica en los centros educativos utilizando herramientas de software y hardware libre.
-
-> Accede a las [prácticas](https://www.elcableamarillo.cc) desde la web de El cable Amarillo.

@@ -3,6 +3,9 @@
 Este curso presencial surge ante la necesidad de dotar a los docentes sobre recursos pedagógicos para el uso de la programación y robótica en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
 
 
+<br />
+
+
 ## Programar sin ordenador
 
 Son numerosas las páginas, programas o robots pensados para el desarrollo del pensamiento computacional desde edades tempranas. Sin embargo, también podemos encontrar actividades para aprender a programar sin necesidad de utilizar un ordenador o dispositivo informático, lo que se conoce como *programación desenchufada o desconectada*.
