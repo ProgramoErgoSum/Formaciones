@@ -2,27 +2,6 @@
 
 Las nuevas tendencias pedagógicas que se están desarrollando apuestan por la integración de las tecnologías del aprendizaje y el conocimiento en las aulas. A través de éstas el alumno es capaz de desarrollar sus propios aprendizajes, siendo el protagonista del proceso de enseñanza y aprendizaje.
 
-![](img/preview.jpg "Recursos educativos mediante la programación")
-
-Esta actividad, catalogada de nivel B1 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del **Marco Común de la Competencia Digital Docente**.
-
-- Área 1. Información y alfabetización informacional
-  - 1.3. Almacenamiento y recuperación de información, datos y contenidos digitales
-- Área 3: Creación de contenido digital
-  - 3.1. Desarrollo de contenidos digitales
-  - 3.2. Integración y reelaboración de contenidos digitales
-  - 3.3. Derechos de autor y licencias
-- Área 5: Resolución de problemas
-  - 5.2. Identificación de necesidades y respuestas tecnológicas
-  - 5.3. Innovación y uso de la tecnología de forma creativa
-
-### Objetivos del curso
-
-1. Conocer lenguajes de *programación por bloques*.
-2. *Gamificación* en el aula para potenciar la motivación del alumnado.
-3. Creación de *recursos educativos multimedia* mediante la programación.
-4. Utilizar la *programación* como desarrollo hacia otras competencias.
-
 
 
 <br />
@@ -97,13 +76,13 @@ Scratch está disponible en su versión online y su versión offline, siendo est
 
 
 
-## Exposición de trabajos
+## Ejemplos de uso
 
-A continuación aparecen los proyectos realizados por los docentes que han participado en las ediciones anteriores del curso de formación permanente del profesorado en el Centro de Profesorado y Recursos de la Regiónj de Murcia.
+A continuación aparecen los proyectos que nos han enviado nuestros alumnos para que aparezcan en el blog.
 
 ### Proyecto Bee-Bot en lengua y matemáticas
 
-> Este proyecto ha sido realizado por Alberto Campos, maestro del CEIP San José de Fuente Álamo (Murcia), dirigido a un grupo de 24 alumnos, de primer curso de Primaria. 
+> Este proyecto ha sido realizado por Alberto Campos, dirigido a un grupo de 24 alumnos, de primer curso de Primaria. 
 
 Se han realizado 2 actividades, una de Lengua y otra de Matemáticas. 
 
@@ -121,7 +100,7 @@ Algunas dificultades encontradas son, la escasa orientación espacial que presen
 
 ### Proyecto Plickers en sociales y naturales
 
-> Este proyecto ha sido realizado por Antonio Ludeña, maestro del CEIP Fernández Caballero de Murcia.
+> Este proyecto ha sido realizado por Antonio Ludeña.
 
 Una opinión extendida es que estos lenguajes requieren de profundos conocimientos informáticos y por tanto de un lenguaje profesional poco atractivo y comprensible para usuarios informáticos con escasos o nulos niveles de conocimiento en esta materia. Por tanto, en este documento final quiero reflejar mi satisfacción al haber comprendido que, a través del modelo basado en la programación por bloques, se hace cierta la manifestación expresada en el programa del curso, de que "permite a los programadores principiantes concentrarse en la lógica de la programación abstrayéndose de la gramática del propio lenguaje".
 
