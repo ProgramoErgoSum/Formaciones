@@ -2,32 +2,6 @@
 
 El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
 
-![](img/preview.jpg "Centro de Profesores y Recursos, Región de Murcia")
-
-### Competencias profesionales
-
-Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del *Marco Común de la Competencia Digital Docente*.
-
-- Área 1: Información y alfabetización informacional
-  - 1.1. Navegación, búsqueda y filtrado de información, datos y contenidos digitales
-  - 1.2. Evaluación de la información, datos y contenidos digitales
-- Área 2: Comunicación y colaboración
-  - 2.2. Compartir información y contenidos digitales
-  - 2.4. Colaboración mediante canales digitales
-- Área 3: Creación de contenido digital
-  - 3.1. Desarrollo de contenidos digitales
-  - 3.2. Integración y reelaboración de contenidos digitales
-  - 3.4. Programación
-- Área 5: Resolución de problemas
-  - 5.3. Innovación y uso de la tecnología digital de forma creativa
-
-### Objetivos del curso
-
-1. Posibles usos de la *Raspberry Pi* en el aula.
-2. Aprender a programar en el lenguaje de programación *Python*.
-3. Conocer el mundo digital y físico con la *Raspberry Pi*.
-4. Introducción a la *domótica* e *Internet de las Cosas*.
-
 
 
 <br />
@@ -70,7 +44,7 @@ Python es un lenguaje de programación interpretado de tipado dinámico cuya fil
 
 Como iniciación a la domótica podemos realizar diferentes prácticas utilizando una sencilla webcam conectada por USB o la propia PICAM de Raspberry Pi. Desde controlar una estancia de nuestra casa de forma remota a través del móvil utilizando el programa Motion hasta crear un timelapse con el programa fswebcam.
 
-![](img/domotica.jpg "Domótica con Raspberry Pi")
+<!--![](img/domotica.jpg "Domótica con Raspberry Pi")-->
 
 
 
