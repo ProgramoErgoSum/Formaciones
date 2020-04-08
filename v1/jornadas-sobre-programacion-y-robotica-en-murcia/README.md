@@ -1,6 +1,6 @@
 ## Introducción
 
-Durante las jornadas sobre programación y robótica en Murcia (destinadas a profesorado de la Consejería de Educación de la Región de Murcia), realizamos diferentes talleres tanto para maestros y maestras de educación infantil y primaria, como a profesorado de educación secundaria y bachillerato.
+Durante las jornadas sobre programación y robótica en la Universidad de Murcia, fuimos invitados para impartir un taller de Internet de las cosaso.
 
 ### Taller de Realidad Aumentada
 
