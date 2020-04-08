@@ -1,35 +1,6 @@
 ## Introducción
 
-El curso surge ante la necesidad de dotar a los centros de recursos pedagógicos para el uso de robots en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
-
-![](img/preview.jpg "Centro de Profesores y Recursos, Región de Murcia")
-
-### Competencias profesionales
-
-Esta actividad, catalogada de nivel A2 permite adquirir y/o desarrollar las siguientes áreas competenciales dentro del *Marco Común de la Competencia Digital Docente*.
-
-- Área 1: Información y alfabetización informacional
-  - 1.1. Navegación, búsqueda y filtrado de información, datos y contenidos digitales
-  - 1.2. Evaluación de la información, datos y contenidos digitales
-- Área 2: Comunicación y colaboración
-  - 2.2. Compartir información y contenidos digitales
-  - 2.4. Colaboración mediante canales digitales
-- Área 3: Creación de contenido digital
-  - 3.4. Programación
-- Área 5: Resolución de problemas
-  - 5.2. Identificación de necesidades y respuestas tecnológicas.
-
-### Objetivos del curso
-
-1. Analizar los entornos de *programación y lenguajes*.
-2. Utilizar técnicas de *gamificación* en el aula.
-3. Conocer las posibilidades que ofrece la *realidad aumentada*.
-4. Explorar técnicas utilizando *robots educativos*.
-5. Introducción al mundo DIY y *maker* en educación.
-
-
-
-<br />
+Este curso presencial surge ante la necesidad de dotar a los docentes sobre recursos pedagógicos para el uso de la programación y robótica en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
 
 
 ## Programar sin ordenador
@@ -44,12 +15,15 @@ Durante esta sesión del curso, destinada a la **introducción al pensamiento co
 
 Este tipo de actividades desconectadas son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática y la robótica educativa ya que los alumnos descubren las respuestas a los problemas por sí mismos fomentando un enfoque constructivista.
 
+<!--
 ![](img/mis-amigos-robots.jpg "Mis amigos robots")
+-->
 
 Además, con un poco de imaginación se pueden crear diferentes juegos educativos para fomentar la lógica computacional. Juegos basados en programas como Scratch Jr. creado utilizando piezas impresas en 3D pero que perfectamente podrían haber sido creadas utilizando otro tipo de materiales como cartón pluma o goma eva entre otros muchos materiales.
 
+<!--
 ![](img/aprende-a-programar.jpg "Aprende a programar")
-
+-->
 
 
 <br />
@@ -135,15 +109,17 @@ Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con prog
 
 El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
 
+<!--
 ### Llaveros realizados por docentes
 
-- [CPR Juan Carlos I, Murcia](https://www.tinkercad.com/things/jq4ezQKv5Mb)
-- [CEIP San José, Lorca (Murcia)](https://www.tinkercad.com/things/5P19rT1mWZA)
-- [CEIP Martínez Ardieta, Roldan (Murcia)](https://www.tinkercad.com/things/kCaF4KgfTsk)
-- [CEIP Hnos. S. Isidoro y Sta. Florentina, Cartagena (Murcia)](https://www.tinkercad.com/things/bhNu9jX7pov)
-- [CEIP Ciudad del Mar, Águilas (Murcia)](https://www.tinkercad.com/things/6ZXgi2K4nqA)
-- [CEIP Purísima Concepción, Esparragal de Puerto Lumbreras (Murcia)](https://www.tinkercad.com/things/jlT7RIKroAw)
-- [CEIP Los Molinos, Calasparra (Murcia)](https://www.tinkercad.com/things/52vKYYGMUDc)
+- [IES Juan Carlos I](https://www.tinkercad.com/things/jq4ezQKv5Mb)
+- [CEIP San José](https://www.tinkercad.com/things/5P19rT1mWZA)
+- [CEIP Martínez Ardieta](https://www.tinkercad.com/things/kCaF4KgfTsk)
+- [CEIP Hnos. S. Isidoro y Sta. Florentina](https://www.tinkercad.com/things/bhNu9jX7pov)
+- [CEIP Ciudad del Mar](https://www.tinkercad.com/things/6ZXgi2K4nqA)
+- [CEIP Purísima Concepción](https://www.tinkercad.com/things/jlT7RIKroAw)
+- [CEIP Los Molinos](https://www.tinkercad.com/things/52vKYYGMUDc)
+-->
 
 
 
