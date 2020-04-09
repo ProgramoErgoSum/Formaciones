@@ -1,21 +1,21 @@
+<!--
 ### Taller de Realidad Aumentada
 
-El taller de realidad aumentada está destinado principalmente a maestros y maestras de educación infantil y primaria. El objetivo consiste en introducir el lenguaje de programación por bloques Scratch como aplicación en el aula.
+En 2018 fuimos invitados para realizar un taller de realidad aumentada destinado principalmente a maestros y maestras de educación infantil y primaria. El objetivo consistía en introducir el lenguaje de programación por bloques Scratch como aplicación en el aula.
 
 ![](img/taller-ra.jpg "Taller de Realidad Aumentada con Scratch")
 
+
 ### Taller de Internet de las Cosas
 
-El taller de internet de las cosas está destinado principalmente a profesores de educación secundaria. El objetivo consiste en introducir los lenguajes de programación textuales como Python y el uso de la Raspberry Pi como aplicación en el aula.
+En 2019 fuimos invitados para realizar un taller de internet de las cosas destinado principalmente a profesores de educación secundaria. El objetivo consistía en introducir los lenguajes de programación textuales como Python y el uso de la Raspberry Pi como aplicación en el aula.
 
 ![](img/taller-iot.jpg "Taller de Internet de las Cosas con raspberry Pi")
 
 
 
 <br />
-
-
-
+-->
 ## Medidor de volumen
 
 Esta aplicación educativa tiene como finalidad medir el volumen de los alumnos con ayuda de un micrófono y mostrar diferentes imágenes por la pantalla. Por ejemplo, si el volumen es adecuado se mostrará un fondo de color verde con una cara sonriente. Si por el contrario aumenta el volumen, cambiará a un fondo amarillo mostrando una imagen diferente. Por último, si el volumen es excesivo, cambiará al fondo de color rojo mostrando una cara de enfado.

@@ -72,7 +72,9 @@ A continuación aparecen los proyectos que nos han enviado nuestros alumnos para
 
 ### Proyecto Bee-Bot en lengua y matemáticas
 
+<!--
 > Este proyecto ha sido realizado por Alberto Campos, dirigido a un grupo de 24 alumnos, de primer curso de Primaria. 
+-->
 
 Se han realizado 2 actividades, una de Lengua y otra de Matemáticas. 
 
@@ -90,7 +92,9 @@ Algunas dificultades encontradas son, la escasa orientación espacial que presen
 
 ### Proyecto Plickers en sociales y naturales
 
+<!--
 > Este proyecto ha sido realizado por Antonio Ludeña.
+-->
 
 Una opinión extendida es que estos lenguajes requieren de profundos conocimientos informáticos y por tanto de un lenguaje profesional poco atractivo y comprensible para usuarios informáticos con escasos o nulos niveles de conocimiento en esta materia. Por tanto, en este documento final quiero reflejar mi satisfacción al haber comprendido que, a través del modelo basado en la programación por bloques, se hace cierta la manifestación expresada en el programa del curso, de que "permite a los programadores principiantes concentrarse en la lógica de la programación abstrayéndose de la gramática del propio lenguaje".
 

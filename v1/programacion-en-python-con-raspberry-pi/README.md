@@ -4,9 +4,9 @@ Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la en
 
 ![](img/raspberry.jpg "Raspberry Pi")
 
-> Este curso se puede realizar con diferentes versiones de Raspberry Pi (2, 3 y 4).
+> Este tutorial se puede realizar con diferentes versiones de Raspberry Pi (2, 3 y 4).
 
-El sistema operativo elegido y recomendado es Raspbian al estar optimizado para el procesador ARM (frente a los procesadores x86 que podemos encontrar en los PC de un aula convencional). Para más información sobre la arquitectura del procesador y modos de instalación accede al curso de instalación de Raspbian en Raspberry Pi de esta misma plataforma donde lo explicamos a través de videotutoriales.
+El sistema operativo elegido y recomendado es Raspbian al estar optimizado para el procesador ARM (frente a los procesadores x86 que podemos encontrar en los PC de un aula convencional). Para más información sobre la arquitectura del procesador y modos de instalación accede al tutorial de instalación de Raspbian en Raspberry Pi de esta misma plataforma donde lo explicamos a través de videotutoriales.
 
 > Accede a nuestros [tutoriales](https://www.programoergosum.es/tutoriales/tags/raspberry-pi) de Raspberry Pi.
 
@@ -102,7 +102,7 @@ Mediante el módulo PyGame se pueden desarrollar videojuegos en Python similares
 
 Minecraft es un videojuego de tipo indie sandbox en el que construyes estructuras, recolectas objetos, extraes minerales y peleas con monstruos para sobreviri. Minecraft Pi Edition es una versión reducida para procesadores ARM como el de la Raspberry Pi.
 
-Con tan solo 4 funciones se puede crear y personalizar un mundo educativo para utilizar en el aula. Para más información puedes acceder al curso de programación con Python en Minecraft de esta misma plataforma.
+Con tan solo 4 funciones se puede crear y personalizar un mundo educativo para utilizar en el aula. Para más información puedes acceder al tutorial de programación con Python en Minecraft de esta misma plataforma.
 
 Un reto propuesto consiste en realizar unas mejoras a un laberinto programado en Python y preparado con las instrucciones básicas de Minecraft Pi. 
 

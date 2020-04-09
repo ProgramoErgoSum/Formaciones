@@ -12,4 +12,4 @@
 
 # Programo Ergo Sum
 
-> Cursos de formación en programación y robótica educativa para docentes, maestros de educación primaria y profesores de secundaria o bachillerato.
+> Tutoriales de formación en informática, programación, electrónica y robótica educativa para docentes.

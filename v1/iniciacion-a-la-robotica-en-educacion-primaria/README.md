@@ -4,7 +4,7 @@ Son numerosas las páginas, programas o robots pensados para el desarrollo del p
 
 > Accede al artículo donde explicamos algunas actividades para [aprender a programar sin ordenador](https://www.programoergosum.es/blog/aprender-a-programar-sin-ordenador/).
 
-Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes actividades relacionadas con el aprendizaje de la programación, utilizando material comúnmente encontrado en las aulas de educación infantil y primaria.
+En este apartado destinado a la **introducción al pensamiento computacional**, probamos diferentes actividades relacionadas con el aprendizaje de la programación, utilizando material comúnmente encontrado en las aulas de educación infantil y primaria.
 
 ![](img/cody-roby.jpg "Cody Roby")
 
@@ -31,7 +31,7 @@ Aunque el robot educativo de suelo más conocido suele ser la famosa abeja *Beeb
 
 > Accede al artículo donde realizamos una comparativa sobre los diferentes [robots educativos de suelo](https://www.programoergosum.es/blog/robots-educativos-de-suelo/).
 
-Durante esta sesión del curso, destinada a la **introducción al pensamiento computacional**, probamos diferentes robots educativos para que sean los propios docentes los que las tomen conclusiones de primera mano.
+En esta apartado destinado a la **introducción al pensamiento computacional**, probamos diferentes robots educativos para que sean los propios docentes los que las tomen conclusiones de primera mano.
 
 ![](img/beebot.jpg "Juego de la escalera")
 
@@ -41,9 +41,7 @@ El robot de suelo que solemos recomendar es *Escornabot*. Lo que lo hace especia
 
 Como prodrás observar, este robot no suele encontrarse en tiendas ya que el objetivo del proyecto es que seas tú mismo el que lo construye y lo monta comprando los materiales de electrónica e imprimiendo los modelos de las piezas con una impresora 3D.
 
-> Para más información puedes acceder a nuestro tutorial de [Introducción a la robótica educativa con Escornabot](https://www.programoergosum.es/tutoriales/robotica-educativa-con-escornabot).
-
-En este curso los docentes aprenden las partes principales del robot Escornabot en su versión [2.12 Xdesig](https://www.thingiverse.com/thing:3269696) al mismo tiempo que lo montan.
+> Para más información puedes acceder a nuestro tutorial de [Introducción a la robótica educativa con Escornabot](https://www.programoergosum.es/tutoriales/robotica-educativa-con-escornabot) en su versión [2.12 Xdesig](https://www.thingiverse.com/thing:3269696).
 
 ![](img/escornabot.jpg "Robot de suelo Escornabot")
 
@@ -57,7 +55,7 @@ En este curso los docentes aprenden las partes principales del robot Escornabot 
 
 La Hora del Código es una iniciativa que tiene como objetivo incentivar a los estudiantes a aprender sobre las Ciencias Computacionales. Es una de las iniciativas preferidas por muchos de los docentes interesados en introducir la programación en el aula ya que disponene de numerosos materiales con asistentes interactivos para un aprendizaje guiado.
 
-Podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos. Como se puede observr en la siguiente imagen, en cada una de las actividades aparece el nombre del proyecto, una pequeña descripción, las características técnicas y la edad recomendada de la actividad.
+Podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos. Como se puede observar en la siguiente imagen, en cada una de las actividades aparece el nombre del proyecto, una pequeña descripción, las características técnicas y la edad recomendada de la actividad.
 
 ![](img/actividades.jpg "La Hora del Código")
 
@@ -79,7 +77,7 @@ Para los docentes, se incluye un apartado acompañado de una documentación muy 
 
 ![](img/profesores.jpg "Sección profesores")
 
-Durante esta sesión del curso, destinada a la **introducción a los lenguajes de programación**, probamos diferentes cursos y lecciones de la plataforma para aprender a programar con el lenguaje de programación por bloques.
+En este apartado destinado a la **introducción a los lenguajes de programación**, probamos diferentes cursos y lecciones de la plataforma para aprender a programar con el lenguaje de programación por bloques.
 
 
 
@@ -105,7 +103,7 @@ Por otro lado, en cuanto al software utilizado, podemos diseñar piezas con prog
 El objetivo de usar TinkerCAD para iniciarse en el mundo de la impresión 3D es debido a su sencillez para realizar cualquier objeto en 3D arrastrando bloques y sin necesidad de utilizar funciones complejas como en programas más avanzados de diseño 3D.
 
 <!--
-### Llaveros realizados por docentes
+### Ejemplos de llaveros
 
 - [IES Juan Carlos I](https://www.tinkercad.com/things/jq4ezQKv5Mb)
 - [CEIP San José](https://www.tinkercad.com/things/5P19rT1mWZA)
@@ -146,7 +144,7 @@ Aunque Scratch parece una herramienta destinada solamente a niños, podemos aseg
 
 [Makey-Makey](https://makeymakey.com/) es una placa similar al mando de una videoconsola que simula ser un teclado o ratón, lo que permite enviar órdenes al ordenador al que se encuentre conectado.
 
-Durante esta sesión del curso, destinada a la robótica educativa en educación infantil, probamos diferentes aplicaciones y usos de la Makey-Makey en el aula. Se puso en práctica la conductividad de los diferentes materiales que encontramos en el aula como medio de aprendizaje.
+En esta apartado destinado a la robótica educativa en educación infantil, probamos diferentes aplicaciones y usos de la Makey-Makey en el aula. Se puso en práctica la conductividad de los diferentes materiales que encontramos en el aula como medio de aprendizaje.
 
 ![](img/piano-makey-makey.jpg "Piano con Makey-Makey")
 
