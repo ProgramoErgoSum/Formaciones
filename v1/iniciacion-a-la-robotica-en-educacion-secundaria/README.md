@@ -1,11 +1,3 @@
-## Introducción
-
-Este curso presencial surge ante la necesidad de dotar a los docentes sobre recursos pedagógicos para el uso de la programación y robótica en las aulas. Se trata de fomentar la innovación docente mediante nuevas herramientas que puedan despertar el interés de los alumnos por las nuevas tecnologías.
-
-
-<br />
-
-
 ## Lenguajes de programación
 
 La aplicación de los lenguajes de programación por bloques permite una presentación visual del paradigma y metodología de la programación informática permitiendo centrarse en la lógica de la programación dejando a un lado la sintaxis propia de los lenguajes de programación (puntos y comas, paréntesis, etc).

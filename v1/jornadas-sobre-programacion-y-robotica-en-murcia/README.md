@@ -1,7 +1,3 @@
-## Introducción
-
-Durante las jornadas sobre programación y robótica en la Universidad de Murcia, fuimos invitados para impartir un taller de Internet de las cosaso.
-
 ### Taller de Realidad Aumentada
 
 El taller de realidad aumentada está destinado principalmente a maestros y maestras de educación infantil y primaria. El objetivo consiste en introducir el lenguaje de programación por bloques Scratch como aplicación en el aula.

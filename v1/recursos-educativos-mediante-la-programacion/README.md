@@ -1,13 +1,3 @@
-## Introducción
-
-Las nuevas tendencias pedagógicas que se están desarrollando apuestan por la integración de las tecnologías del aprendizaje y el conocimiento en las aulas. A través de éstas el alumno es capaz de desarrollar sus propios aprendizajes, siendo el protagonista del proceso de enseñanza y aprendizaje.
-
-
-
-<br />
-
-
-
 ## Pensamiento computacional
 
 El Pensamiento Computacional se define como el proceso por el cual nos enfrentamos a un problema aplicando habilidades propias de la computación y del pensamiento crítico. Dicho de otra forma, el pensamiento computacional implica resolver problemas cotidianos haciendo uso de los conceptos fundamentales de la programación informática para resolver problemas cuyas soluciones pueden ser representadas mediante una serie de pasos o instrucciones.

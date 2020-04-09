@@ -1,13 +1,3 @@
-## Introducción
-
-El siguiente curso presencial surge por la necesidad de aplicar lenguajes de programación textual como evolución a los lenguajes de programación por bloques realizados en cursos de iniciación.
-
-
-
-<br />
-
-
-
 ## Introducción a Raspberry Pi
 
 Raspberry Pi es un pequeño ordenador destinado principalmente a estimular la enseñanza de las ciencias de la computación en los centros educativos. La ventaja principal que se puede destacar sobre un ordenador convencional es la posibilidad de utilizar los pines GPIO para conectar el mundo físico con el mundo digital.

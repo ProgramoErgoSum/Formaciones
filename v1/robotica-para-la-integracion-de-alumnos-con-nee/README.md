@@ -1,13 +1,3 @@
-## Introducción
-
-El curso surge ante la necesidad de aplicar nuevas metodologías para la integración e inclusión de niños y niñas con diferente diversidad funcional utilizando la programación y la robótica educativa.
-
-
-
-<br />
-
-
-
 ## Robots educativos de suelo
 
 Aunque el robot de suelo más conocido es la famosa abeja *Beebot*, a día de hoy podemos encontrar otros robots educativos con características similares para utilizar en el aula con nuestros alumnos.
